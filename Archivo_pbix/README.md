@@ -1,6 +1,6 @@
 # Portal de Pagos Power BI
 
-## Explicacion
-Detalle pago créditos a concesionarios
+## Detalle Pago Caréditos a concesionarios
+pago a concesionarios
 
 ![alt text](image.png)
