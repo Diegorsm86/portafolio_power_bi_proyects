@@ -1,0 +1,795 @@
+Identificador del cliente;Cliente;Segmento;Ciudad;Estado;País;Región##
+AÁ-10015_EstoSeDebeBorrar;5_Abel Ángel;Cliente;León;León;Nicaragua;Centro###
+AA-10150_EstoSeDebeBorrar;5_Alonso Arévalo;Cliente;Managua;Managua;Nicaragua;Centro###
+AA-10165_EstoSeDebeBorrar;5_Adán Atencio;Cliente;Las Tunas;Las Tunas;Cuba;Caribe###
+AA-10225_EstoSeDebeBorrar;5_Alejandra Alcaraz;Empresa;Cumaná;Sucre;Venezuela;Sur###
+ÁA-10360_EstoSeDebeBorrar;5_Ágata Alonso;Empresa;Soyapango;San Salvador;El Salvador;Centro###
+AA-10390_EstoSeDebeBorrar;5_Arturo Anguiano;Cliente;Artemisa;Artemisa;Cuba;Caribe###
+AA-10555_EstoSeDebeBorrar;5_Alina Armijo;Empresa;Mixco;Guatemala;Guatemala;Centro$$$$
+AA-10615_EstoSeDebeBorrar;5_Alicia Abrego;Empresa;Garza García;Nuevo León;M?xico;Norte$$$$
+AA-11005_EstoSeDebeBorrar;5_Andrés Arellano;Pequeña empresa;San Pedro de Macorís;San Pedro de Macorís;Rep?blica Dominicana;Caribe$$$$
+AA-11470_EstoSeDebeBorrar;5_Asís Aguilera;Empresa;Managua;Managua;Nicaragua;Centro$$$$
+AA-11665_EstoSeDebeBorrar;5_Alina Anaya;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro$$$$
+AB-10045_EstoSeDebeBorrar;5_Adolfo Barraza;Empresa;Neiva;Huila;Colombia;Sur###
+AB-10135_EstoSeDebeBorrar;5_Alfredo Barajas;Pequeña empresa;Ciudad de México;Distrito Federal;M?xico;Norte###
+AB-10180_EstoSeDebeBorrar;5_Adela Blanco;Pequeña empresa;San Francisco del Rincón;Guanajuato;M?xico;Norte###
+AB-10645_EstoSeDebeBorrar;5_Alexia Bonilla;Cliente;Camagüey;Camagüey;Cuba;Caribe###
+AB-10720_EstoSeDebeBorrar;5_Alejandra Banda;Pequeña empresa;Tipitapa;Managua;Nicaragua;Centro###
+AB-10795_EstoSeDebeBorrar;5_Amaia Briseño;Empresa;Bogotá;Bogotá;Colombia;Sur###
+AB-10885_EstoSeDebeBorrar;5_Ana Borrego;Cliente;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe$$$$
+AB-11110_EstoSeDebeBorrar;5_Aníbal Barragán;Empresa;San Nicolás de los Arroyos;Provincia de Buenos Aires;Argentina;Sur$$$$
+AB-11125_EstoSeDebeBorrar;5_Adolfo Baca;Pequeña empresa;Manizales;Caldas;Colombia;Sur$$$$
+AB-11185_EstoSeDebeBorrar;5_Antonia Baeza;Empresa;Ciudad Madero;Tamaulipas;M?xico;Norte$$$$
+AB-11350_EstoSeDebeBorrar;5_Anselmo Batista;Empresa;Toluca;México;M?xico;Norte$$$$
+AB-11545_EstoSeDebeBorrar;5_Astrid Briseño;Empresa;Ciudad Juárez;Chihuahua;M?xico;Norte###
+AC-10105_EstoSeDebeBorrar;5_Abraham Cedillo;Cliente;Soledad Díez Gutiérrez;San Luis Potosí;M?xico;Norte###
+AC-10270_EstoSeDebeBorrar;5_Adelina Castaneda;Cliente;Villa Nueva;Guatemala;Guatemala;Centro###
+AC-10540_EstoSeDebeBorrar;5_Alan Cadena;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+AC-10780_EstoSeDebeBorrar;5_Amadeo Collado;Empresa;Chihuahua;Chihuahua;M?xico;Norte###
+ÁC-10915_EstoSeDebeBorrar;5_Ángel Chávez;Cliente;Santa Clara;Villa Clara;Cuba;Caribe###
+AC-10930_EstoSeDebeBorrar;5_Anabel Caraballo;Pequeña empresa;Mixco;Guatemala;Guatemala;Centro$$$$
+AC-11680_EstoSeDebeBorrar;5_Alina Casillas;Cliente;Santiago;Santiago;Chile;Sur$$$$
+AD-10480_EstoSeDebeBorrar;5_Anastasia Dávila;Cliente;Toluca;México;M?xico;Norte$$$$
+AD-10735_EstoSeDebeBorrar;5_Alejandra Duarte;Cliente;Macapá;Amapá;Brasil;Sur$$$$
+AE-10945_EstoSeDebeBorrar;5_Anacleto Espinal;Cliente;Juiz de Fora;Minas Gerais;Brasil;Sur$$$$
+AE-11200_EstoSeDebeBorrar;5_Anya Espinoza;Cliente;Tijuana;Baja California;M?xico;Norte###
+AE-11320_EstoSeDebeBorrar;5_Ares Espinosa;Cliente;Córdoba;Veracruz;M?xico;Norte###
+AE-11380_EstoSeDebeBorrar;5_Araceli Echevarría;Empresa;La Plata;Provincia de Buenos Aires;Argentina;Sur###
+AF-10120_EstoSeDebeBorrar;5_Abril Ferrer;Pequeña empresa;Cancún;Quintana Roo;M?xico;Norte###
+AF-10195_EstoSeDebeBorrar;5_Adela Feliciano;Empresa;Palma Soriano;Santiago de Cuba;Cuba;Caribe###
+AG-10450_EstoSeDebeBorrar;5_Anselmo Guardado;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+AG-10510_EstoSeDebeBorrar;5_Aisa Guardado;Cliente;Tipitapa;Managua;Nicaragua;Centro$$$$
+AG-10660_EstoSeDebeBorrar;5_Alexia Garza;Cliente;Ciudad Obregón;Sonora;M?xico;Norte$$$$
+AG-11095_EstoSeDebeBorrar;5_Ania Gámez;Empresa;Belo Horizonte;Minas Gerais;Brasil;Sur$$$$
+AG-11155_EstoSeDebeBorrar;5_Antonia Gallardo;Cliente;Ilopango;San Salvador;El Salvador;Centro$$$$
+AG-11260_EstoSeDebeBorrar;5_Adrián Gálvez;Cliente;Mejicanos;San Salvador;El Salvador;Centro$$$$
+AG-11395_EstoSeDebeBorrar;5_Amalia García;Empresa;Irapuato;Guanajuato;M?xico;Norte###
+AG-11575_EstoSeDebeBorrar;5_Atila Godoy;Empresa;Managua;Managua;Nicaragua;Centro###
+AH-11305_EstoSeDebeBorrar;5_Ariadna Hernández;Pequeña empresa;Manzanillo;Granma;Cuba;Caribe###
+AJ-10840_EstoSeDebeBorrar;5_Amador Jasón;Cliente;Fresnillo de González Echeverría;Zacatecas;M?xico;Norte###
+AJ-11065_EstoSeDebeBorrar;5_Angélica Jáquez;Cliente;San Miguelito;Panam?;Panam?;Centro###
+AJ-11695_EstoSeDebeBorrar;5_Alina Jasón;Empresa;Puerto Padre;Las Tunas;Cuba;Caribe###
+AL-10240_EstoSeDebeBorrar;5_Adolfo Lira;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe$$$$
+AL-10570_EstoSeDebeBorrar;5_Alejo Lugo;Cliente;Miguel Hidalgo;Distrito Federal;M?xico;Norte$$$$
+AL-10975_EstoSeDebeBorrar;5_Amanda Limón;Empresa;Caxias do Sul;Río Grande del Sur;Brasil;Sur$$$$
+AL-11035_EstoSeDebeBorrar;5_Ane Lomeli;Cliente;Villa Nueva;Guatemala;Guatemala;Centro$$$$
+AL-11215_EstoSeDebeBorrar;5_Anya Leyva;Pequeña empresa;Managua;Managua;Nicaragua;Centro$$$$
+AL-11635_EstoSeDebeBorrar;5_Antonio Lerma;Cliente;Durango;Durango;M?xico;Norte###
+AM-10075_EstoSeDebeBorrar;5_Alberto Márquez;Empresa;Estelí;Estelí;Nicaragua;Centro###
+AM-10315_EstoSeDebeBorrar;5_Armando Medina;Cliente;Culiacán;Sinaloa;M?xico;Norte###
+AM-10630_EstoSeDebeBorrar;5_Alejo Mondragón;Pequeña empresa;Montevideo;Montevideo;Uruguay;Sur###
+ÁM-10765_EstoSeDebeBorrar;5_Álvaro Muñoz;Pequeña empresa;Ilopango;San Salvador;El Salvador;Centro###
+AM-11245_EstoSeDebeBorrar;5_Arán Maya;Empresa;Santa Marta;Magdalena;Colombia;Sur###
+AM-11365_EstoSeDebeBorrar;5_Araceli Manzanares;Empresa;Portmore;Santa Caterina;Jamaica;Caribe%%
+AN-10435_EstoSeDebeBorrar;5_Agustín Negrete;Pequeña empresa;Tapachula;Chiapas;M?xico;Norte%%
+AN-10870_EstoSeDebeBorrar;5_Aarón Navarrete;Cliente;Santa Clara;Villa Clara;Cuba;Caribe%%
+AO-10255_EstoSeDebeBorrar;5_Adolfo Ojeda;Pequeña empresa;Goiânia;Goiás;Brasil;Sur%%
+AO-10405_EstoSeDebeBorrar;5_Augusto Olivares;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte%%
+AO-10810_EstoSeDebeBorrar;5_Amalia Osorio;Empresa;Londrina;Paraná;Brasil;Sur%%
+ÁO-11050_EstoSeDebeBorrar;5_Ángeles Ornelas;Empresa;San Salvador;San Salvador;El Salvador;Centro%%
+AP-10060_EstoSeDebeBorrar;5_Alan Pérez;Pequeña empresa;Soyapango;San Salvador;El Salvador;Centro%%
+AP-10675_EstoSeDebeBorrar;5_Alexis Ponce;Cliente;Lins;São Paulo;Brasil;Sur%%
+AP-10705_EstoSeDebeBorrar;5_Alicia Pizarro;Cliente;Las Tunas;Las Tunas;Cuba;Caribe%%
+ÁP-10900_EstoSeDebeBorrar;5_Ángel Prieto;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte%%
+ÁP-11080_EstoSeDebeBorrar;5_Ángel Pineda;Cliente;Mexicali;Baja California;M?xico;Norte%%
+AP-11230_EstoSeDebeBorrar;5_Ara Puente;Cliente;Armenia;Quindío;Colombia;Sur%%
+AP-11485_EstoSeDebeBorrar;5_Aniceto Pérez;Pequeña empresa;Ibagué;Tolima;Colombia;Sur%%
+AP-11515_EstoSeDebeBorrar;5_Aniceto Puertas;Cliente;San Luis Potosí;San Luis Potosí;M?xico;Norte%%
+AP-11620_EstoSeDebeBorrar;5_Aureliano Pizarro;Cliente;Santiago;Santiago;Chile;Sur%%
+AP-11650_EstoSeDebeBorrar;5_Avelino Pedroza;Empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+AQ-11020_EstoSeDebeBorrar;5_Andrés Quintero;Empresa;Orizaba;Veracruz;M?xico;Norte%%
+AR-10345_EstoSeDebeBorrar;5_Amadeo Rocha;Empresa;Mexicali;Baja California;M?xico;Norte%%
+AR-10420_EstoSeDebeBorrar;5_Azucena Rodríguez;Empresa;Santa Clara;Villa Clara;Cuba;Caribe%%
+AR-10525_EstoSeDebeBorrar;5_Amalia Ríos;Empresa;San Pedro Sula;Cortés;Honduras;Centro%%
+AR-10690_EstoSeDebeBorrar;5_Alfonso Raya;Empresa;Granada;Granada;Nicaragua;Centro%%
+AR-10750_EstoSeDebeBorrar;5_Adriano Rolón;Cliente;León;León;Nicaragua;Centro%%
+AR-10990_EstoSeDebeBorrar;5_Anastasia Rosales;Empresa;La Ceiba;Atlántida;Honduras;Centro%%
+AR-11140_EstoSeDebeBorrar;5_Antonio Rocha;Cliente;Bello;Antioquia;Colombia;Sur%%
+AR-11170_EstoSeDebeBorrar;5_Antonio Rubio;Pequeña empresa;Puebla;Puebla;M?xico;Norte%%
+AR-11335_EstoSeDebeBorrar;5_Adriana Rocha;Pequeña empresa;Holguín;Holguín;Cuba;Caribe%%
+AR-11410_EstoSeDebeBorrar;5_Arturo Rocarte;Cliente;Petare;Miranda;Venezuela;Sur%%
+AR-11590_EstoSeDebeBorrar;5_Atila Riojas;Empresa;Cajazeiras;Paraíba;Brasil;Sur%%
+AR-11605_EstoSeDebeBorrar;5_Alejandra Reina;Cliente;Colombo;Paraná;Brasil;Sur%%
+AS-10330_EstoSeDebeBorrar;5_Armando Sánchez;Cliente;Soledad;Atlántico;Colombia;Sur%%
+AS-10375_EstoSeDebeBorrar;5_Asunción Soto;Cliente;Lima;Lima (city);Per?;Sur%%
+AS-10495_EstoSeDebeBorrar;5_Ainhoa Saavedra;Empresa;Carrefour;Ouest;Hait?;Caribe%%
+AS-10855_EstoSeDebeBorrar;5_América Santiago;Cliente;Soyapango;San Salvador;El Salvador;Centro%%
+AS-10960_EstoSeDebeBorrar;5_Anacleto Santana;Cliente;Mixco;Guatemala;Guatemala;Centro%%
+AS-11455_EstoSeDebeBorrar;5_Ariadna Salcedo;Pequeña empresa;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe%%
+AT-10090_EstoSeDebeBorrar;5_Alejandro Trejo;Cliente;Ciudad Obregón;Sonora;M?xico;Norte%%
+AT-10600_EstoSeDebeBorrar;5_Albertina Tamayo;Empresa;Mixco;Guatemala;Guatemala;Centro%%
+AT-11425_EstoSeDebeBorrar;5_Aurelio Torres;Cliente;Mauá;São Paulo;Brasil;Sur%%
+AT-11500_EstoSeDebeBorrar;5_Aniceto Toledo;Cliente;Chinandega;Chinandega;Nicaragua;Centro%%
+AT-11560_EstoSeDebeBorrar;5_Adriana Téllez;Pequeña empresa;León;León;Nicaragua;Centro%%
+ÁU-10285_EstoSeDebeBorrar;5_Águeda Urbina;Empresa;San Salvador;San Salvador;El Salvador;Centro%%
+AU-11290_EstoSeDebeBorrar;5_Aria Urbina;Cliente;La Paz;La Paz;Bolivia;Sur%%
+AV-10030_EstoSeDebeBorrar;5_Adán Vera;Empresa;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe###
+AV-10210_EstoSeDebeBorrar;5_Aída Vélez;Cliente;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe###
+AV-10465_EstoSeDebeBorrar;5_Amadeo Villareal;Cliente;Mérida;Yucatán;M?xico;Norte###
+AV-10585_EstoSeDebeBorrar;5_Adrián Valentín;Cliente;Maracaibo;Zulia;Venezuela;Sur###
+AV-10825_EstoSeDebeBorrar;5_Amelia Vega;Empresa;La Romana;La Romana;Rep?blica Dominicana;Caribe###
+AV-11275_EstoSeDebeBorrar;5_Ari Verduzco;Empresa;Ciudad de Panam?;Panam?;Panam?;Centro$$$$
+AV-11530_EstoSeDebeBorrar;5_Astrid Vega;Pequeña empresa;Ciudad Madero;Tamaulipas;M?xico;Norte$$$$
+AY-11440_EstoSeDebeBorrar;5_Asunción Ybarra;Cliente;Parintins;Amazonas;Brasil;Sur$$$$
+AZ-10300_EstoSeDebeBorrar;5_Anselmo Zambrano;Empresa;Ciudad Juárez;Chihuahua;M?xico;Norte$$$$
+BA-11965_EstoSeDebeBorrar;5_Benito Armenteros;Empresa;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur$$$$
+BA-12070_EstoSeDebeBorrar;5_Bianca Arreola;Pequeña empresa;Contagem;Minas Gerais;Brasil;Sur###
+BA-12100_EstoSeDebeBorrar;5_Blas Alba;Pequeña empresa;Ciudad de México;Distrito Federal;M?xico;Norte###
+BA-12175_EstoSeDebeBorrar;5_Bruna Almonte;Empresa;Quito;Pichincha;Ecuador;Sur###
+BC-11740_EstoSeDebeBorrar;5_Bartolomé Camacho;Cliente;Toluca;México;M?xico;Norte###
+BC-11830_EstoSeDebeBorrar;5_Beltrán Comino;Empresa;Ciudad Choluteca;Choluteca;Honduras;Centro###
+BC-11905_EstoSeDebeBorrar;5_Bautista Camarillo;Pequeña empresa;Managua;Managua;Nicaragua;Centro###
+BC-12115_EstoSeDebeBorrar;5_Blanca Carrasco;Cliente;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur$$$$
+BC-12190_EstoSeDebeBorrar;5_Buenaventura Caldera;Cliente;Managua;Managua;Nicaragua;Centro$$$$
+BE-11800_EstoSeDebeBorrar;5_Bautista Espino;Pequeña empresa;Villahermosa;Tabasco;M?xico;Norte$$$$
+BF-12040_EstoSeDebeBorrar;5_Bibiana Ferro;Pequeña empresa;Camagüey;Camagüey;Cuba;Caribe$$$$
+BH-11875_EstoSeDebeBorrar;5_Baudilia Hurtado;Empresa;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur$$$$
+BH-11935_EstoSeDebeBorrar;5_Begoña Hinojosa;Cliente;Bayamo;Granma;Cuba;Caribe###
+BH-12025_EstoSeDebeBorrar;5_Berta Herrera;Cliente;Envigado;Antioquia;Colombia;Sur###
+BJ-12145_EstoSeDebeBorrar;5_Bernardo Jáquez;Cliente;Fort-de-France;Martinica;Martinica;Caribe###
+BL-11725_EstoSeDebeBorrar;5_Baltasar Luján;Cliente;Durango;Durango;M?xico;Norte###
+BL-11860_EstoSeDebeBorrar;5_Bastián Luján;Cliente;Petapa;Guatemala;Guatemala;Centro###
+BL-11890_EstoSeDebeBorrar;5_Baudilio Lozada;Cliente;Paço do Lumiar;Maranhão;Brasil;Sur###
+BM-11920_EstoSeDebeBorrar;5_Benito Marcos;Cliente;Copiapó;Atacama;Chile;Sur$$$$
+BO-12010_EstoSeDebeBorrar;5_Bernardina Olmos;Cliente;Apopa;San Salvador;El Salvador;Centro$$$$
+BP-11755_EstoSeDebeBorrar;5_Bárbara Portillo;Cliente;Morelia;Michoacán;M?xico;Norte$$$$
+BP-11815_EstoSeDebeBorrar;5_Bautista Porras;Empresa;Choloma;Cortés;Honduras;Centro$$$$
+BP-11995_EstoSeDebeBorrar;5_Benita Pelayo;Cliente;Bogotá;Bogotá;Colombia;Sur$$$$
+BR-11770_EstoSeDebeBorrar;5_Bartolomé Rosales;Cliente;Apopa;San Salvador;El Salvador;Centro###
+BR-11845_EstoSeDebeBorrar;5_Basilio Ruiz;Empresa;Lima;Lima (city);Per?;Sur###
+BR-11950_EstoSeDebeBorrar;5_Bernardo Rosas;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+BR-12160_EstoSeDebeBorrar;5_Brígida Rolón;Cliente;San Pedro Sula;Cortés;Honduras;Centro###
+BS-11785_EstoSeDebeBorrar;5_Baltasar Santillán;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+BS-12055_EstoSeDebeBorrar;5_Betsabé Saldaña;Pequeña empresa;Ilopango;San Salvador;El Salvador;Centro###
+BS-12085_EstoSeDebeBorrar;5_Brígida Sierra;Empresa;Limeira;São Paulo;Brasil;Sur$$$$
+BS-12130_EstoSeDebeBorrar;5_Benjamín Saavedra;Cliente;León;Guanajuato;M?xico;Norte$$$$
+BT-11710_EstoSeDebeBorrar;5_Baltasar Téllez;Cliente;Choloma;Cortés;Honduras;Centro$$$$
+BU-11980_EstoSeDebeBorrar;5_Benito Urrutia;Cliente;Managua;Managua;Nicaragua;Centro$$$$
+CA-12220_EstoSeDebeBorrar;5_Carina Almaraz;Cliente;La Paz;Baja California Sur;M?xico;Norte$$$$
+CA-12250_EstoSeDebeBorrar;5_Cayetano Aparicio;Empresa;Villa Nueva;Guatemala;Guatemala;Centro###
+CA-12310_EstoSeDebeBorrar;5_Camelia Almanza;Empresa;Guadalajara;Jalisco;M?xico;Norte###
+CA-12355_EstoSeDebeBorrar;5_Camilo Almaraz;Cliente;Tuxtla Gutiérrez;Chiapas;M?xico;Norte###
+CA-12715_EstoSeDebeBorrar;5_Claudio Aguilar;Empresa;David;Chiriquí;Panam?;Centro###
+CA-13060_EstoSeDebeBorrar;5_Claudia Aguilar;Cliente;San Pedro Sula;Cortés;Honduras;Centro###
+CÁ-13135_EstoSeDebeBorrar;5_Cintia Álvarez;Cliente;Morelia;Michoacán;M?xico;Norte###
+CB-12325_EstoSeDebeBorrar;5_César Benítez;Pequeña empresa;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur$$$$
+CB-12445_EstoSeDebeBorrar;5_Ciro Becerra;Cliente;Zapopan;Jalisco;M?xico;Norte$$$$
+CB-12730_EstoSeDebeBorrar;5_Claudio Bañuelos;Cliente;Soacha;Cundinamarca;Colombia;Sur$$$$
+CB-13030_EstoSeDebeBorrar;5_Crístofer Barraza;Pequeña empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+CC-12370_EstoSeDebeBorrar;5_Cándida Celaya;Cliente;Cuajimalpa;Distrito Federal;M?xico;Norte###
+CC-12520_EstoSeDebeBorrar;5_Cecilia Cervantes;Cliente;Guantánamo;Guantánamo;Cuba;Caribe###
+CC-12610_EstoSeDebeBorrar;5_Carla Canales;Empresa;São Paulo;São Paulo;Brasil;Sur###
+CC-12880_EstoSeDebeBorrar;5_Clotilde Carrillo;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte###
+CC-12910_EstoSeDebeBorrar;5_Concordia Cuéllar;Pequeña empresa;Córdoba;Córdoba;Argentina;Sur$$$$
+CC-13045_EstoSeDebeBorrar;5_Crístofer Cabrera;Empresa;Choloma;Cortés;Honduras;Centro$$$$
+CD-12265_EstoSeDebeBorrar;5_Cándido Dávila;Cliente;Petapa;Guatemala;Guatemala;Centro$$$$
+CD-12895_EstoSeDebeBorrar;5_Conchi Durán;Cliente;Santiago;Santiago;Chile;Sur$$$$
+CD-12940_EstoSeDebeBorrar;5_Corina Dueñas;Pequeña empresa;Apopa;San Salvador;El Salvador;Centro$$$$
+CE-13150_EstoSeDebeBorrar;5_Cintia Escobar;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte###
+CF-12280_EstoSeDebeBorrar;5_Cristian Ferro;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+CF-12985_EstoSeDebeBorrar;5_Cristóbal Figueroa;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+CG-12340_EstoSeDebeBorrar;5_César Gallardo;Empresa;Caracas;Distrito Capital;Venezuela;Sur###
+CG-12550_EstoSeDebeBorrar;5_Claudio Gil;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+CG-12565_EstoSeDebeBorrar;5_Claudio García;Cliente;Cienfuegos;Cienfuegos;Cuba;Caribe###
+CG-12685_EstoSeDebeBorrar;5_Circe Grijalva;Cliente;Villa Nueva;Guatemala;Guatemala;Centro$$$$
+CG-13015_EstoSeDebeBorrar;5_Cristo Gámez;Cliente;Managua;Managua;Nicaragua;Centro$$$$
+CL-12205_EstoSeDebeBorrar;5_Camilo Laderas;Cliente;Ciudad de Panam?;Panam?;Panam?;Centro$$$$
+CL-12505_EstoSeDebeBorrar;5_Cipriano Lucero;Cliente;Torreón;Coahuila;M?xico;Norte$$$$
+CL-12640_EstoSeDebeBorrar;5_Cintio Luján;Cliente;León;Guanajuato;M?xico;Norte$$$$
+CL-12775_EstoSeDebeBorrar;5_Clementino Leiva;Cliente;Santiago de Cuba;Santiago de Cuba;Cuba;Caribe###
+CM-12235_EstoSeDebeBorrar;5_Carlos Marrero;Cliente;Managua;Managua;Nicaragua;Centro###
+CM-12295_EstoSeDebeBorrar;5_Celso Meza;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+CM-12415_EstoSeDebeBorrar;5_Casimira Marín;Cliente;Guarapari;Espíritu Santo;Brasil;Sur###
+CM-12460_EstoSeDebeBorrar;5_Casandra Mateo;Cliente;Petapa;Guatemala;Guatemala;Centro###
+CM-12625_EstoSeDebeBorrar;5_Crístofer Mayo;Pequeña empresa;Ciudad de Panam?;Panam?;Panam?;Centro###
+CM-12760_EstoSeDebeBorrar;5_Clemencia Mendoza;Empresa;Ciudad de Panam?;Panam?;Panam?;Centro$$$$
+CM-12790_EstoSeDebeBorrar;5_Cruz Muñoz;Pequeña empresa;Apodaca;Nuevo León;M?xico;Norte$$$$
+CM-12820_EstoSeDebeBorrar;5_Cornelio Marín;Pequeña empresa;Matagalpa;Matagalpa;Nicaragua;Centro$$$$
+CO-12490_EstoSeDebeBorrar;5_Carmelo Ortega;Empresa;Guadalajara;Jalisco;M?xico;Norte$$$$
+CO-12670_EstoSeDebeBorrar;5_Cira Ornelas;Cliente;Monterrey;Nuevo León;M?xico;Norte$$$$
+CO-12925_EstoSeDebeBorrar;5_Coralía Olivas;Cliente;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur###
+CO-13105_EstoSeDebeBorrar;5_Cosme Ojeda;Empresa;San Miguelito;Panam?;Panam?;Centro###
+CP-12580_EstoSeDebeBorrar;5_Constantino Padilla;Pequeña empresa;Soyapango;San Salvador;El Salvador;Centro###
+CQ-12865_EstoSeDebeBorrar;5_Conrado Quiñones;Cliente;La Ceiba;Atlántida;Honduras;Centro###
+CR-12805_EstoSeDebeBorrar;5_Cristóbal Roque;Empresa;Floridablanca;Santander;Colombia;Sur###
+CR-12835_EstoSeDebeBorrar;5_Cornelio Reina;Empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+CR-13120_EstoSeDebeBorrar;5_Cirilo Rosario;Empresa;Maturín;Monagas;Venezuela;Sur$$$$
+CS-12595_EstoSeDebeBorrar;5_Constantina Sepúlveda;Cliente;Tlalnepantla;México;M?xico;Norte$$$$
+CS-12655_EstoSeDebeBorrar;5_Cintia Salgado;Pequeña empresa;León;León;Nicaragua;Centro$$$$
+CS-12745_EstoSeDebeBorrar;5_Celia Salgado;Empresa;Querétaro;Querétaro;M?xico;Norte$$$$
+CS-12850_EstoSeDebeBorrar;5_Cornelio Sauceda;Cliente;Goiânia;Goiás;Brasil;Sur$$$$
+CS-13075_EstoSeDebeBorrar;5_Cesar Sedillo;Empresa;Concepción de La Vega;La Vega;Rep?blica Dominicana;Caribe###
+CS-13090_EstoSeDebeBorrar;5_Cora Sánchez;Cliente;Huehuetenango;Huehuetenango;Guatemala;Centro###
+CT-12535_EstoSeDebeBorrar;5_Cecilia Tejada;Empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+CV-12385_EstoSeDebeBorrar;5_Carina Verdes;Cliente;Salvador;Bahía;Brasil;Sur###
+CV-12400_EstoSeDebeBorrar;5_Carmín Vera;Pequeña empresa;Manzanillo;Colima;M?xico;Norte###
+CV-12430_EstoSeDebeBorrar;5_Casimira Villegas;Pequeña empresa;Quetzaltenango;Quezaltenango;Guatemala;Centro###
+CV-12475_EstoSeDebeBorrar;5_Cristina Vergara;Cliente;San Pedro Sula;Cortés;Honduras;Centro$$$$
+CV-12700_EstoSeDebeBorrar;5_Clarisa Valle;Pequeña empresa;Masaya;Masaya;Nicaragua;Centro$$$$
+CV-12955_EstoSeDebeBorrar;5_Cornelio Vázquez;Empresa;San Miguelito;Panam?;Panam?;Centro$$$$
+CV-13000_EstoSeDebeBorrar;5_Cristina Vázquez;Cliente;São Paulo;São Paulo;Brasil;Sur$$$$
+DA-13225_EstoSeDebeBorrar;5_Dánae Abrego;Empresa;Puente Alto;Santiago;Chile;Sur$$$$
+DA-13345_EstoSeDebeBorrar;5_Diana Aguirre;Empresa;Maracaibo;Zulia;Venezuela;Sur###
+DA-13495_EstoSeDebeBorrar;5_Diego Avilés;Empresa;Managua;Managua;Nicaragua;Centro###
+DA-13555_EstoSeDebeBorrar;5_Dimitri Arcones;Empresa;Francisco Morato;São Paulo;Brasil;Sur###
+DB-13210_EstoSeDebeBorrar;5_Daniel Barrientos;Cliente;São Paulo;São Paulo;Brasil;Sur###
+DB-13330_EstoSeDebeBorrar;5_Darío Briones;Cliente;Santiago;Santiago;Chile;Sur###
+DB-13600_EstoSeDebeBorrar;5_Domingo Barrios;Empresa;El Progreso;Yoro;Honduras;Centro###
+DB-13720_EstoSeDebeBorrar;5_Dulce Beltrán;Cliente;Coacalco;México;M?xico;Norte%%
+DC-13180_EstoSeDebeBorrar;5_Dalma Comejo;Empresa;Cubatão;São Paulo;Brasil;Sur%%
+DC-13300_EstoSeDebeBorrar;5_Dafne Canales;Empresa;Coyoacán;Distrito Federal;M?xico;Norte%%
+DC-13360_EstoSeDebeBorrar;5_Dina Cazares;Pequeña empresa;El Progreso;Yoro;Honduras;Centro%%
+DC-13390_EstoSeDebeBorrar;5_David Cordero;Pequeña empresa;Ciudad de México;Distrito Federal;M?xico;Norte%%
+DC-13405_EstoSeDebeBorrar;5_Dora Cintas;Cliente;Puebla;Puebla;M?xico;Norte%%
+DC-13465_EstoSeDebeBorrar;5_Débora Cabrera;Cliente;Managua;Managua;Nicaragua;Centro%%
+DC-13480_EstoSeDebeBorrar;5_Débora Ceja;Pequeña empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro%%
+DC-13525_EstoSeDebeBorrar;5_David Caraballo;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte%%
+DC-13645_EstoSeDebeBorrar;5_Donatella Casas;Cliente;Bridgetown;San Miguel;Barbados;Caribe%%
+DC-13690_EstoSeDebeBorrar;5_Dino Ceballos;Cliente;Ananindeua;Pará;Brasil;Sur%%
+DG-13195_EstoSeDebeBorrar;5_Damiana Guardado;Empresa;Ciudad de Panam?;Panam?;Panam?;Centro%%
+DG-13435_EstoSeDebeBorrar;5_Diana García;Cliente;Osasco;São Paulo;Brasil;Sur%%
+DJ-13510_EstoSeDebeBorrar;5_Domingo Jaime;Empresa;Maringá;Paraná;Brasil;Sur%%
+DL-13240_EstoSeDebeBorrar;5_Dánae Lebrón;Pequeña empresa;Mérida;Mérida;Venezuela;Sur%%
+DM-13630_EstoSeDebeBorrar;5_Delia Miramontes;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+DM-13660_EstoSeDebeBorrar;5_Dora Morales;Cliente;San Miguelito;Panam?;Panam?;Centro%%
+DP-13570_EstoSeDebeBorrar;5_Daniel Pabón;Cliente;Aracaju;Sergipe;Brasil;Sur%%
+DR-13615_EstoSeDebeBorrar;5_Domingo Rivero;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte%%
+DS-13165_EstoSeDebeBorrar;5_Dana Sandoval;Cliente;Managua;Managua;Nicaragua;Centro%%
+DS-13255_EstoSeDebeBorrar;5_Daniel Santillán;Pequeña empresa;Ciudad de México;Distrito Federal;M?xico;Norte%%
+DS-13315_EstoSeDebeBorrar;5_Dafne Sedillo;Cliente;Coyoacán;Distrito Federal;M?xico;Norte%%
+DS-13450_EstoSeDebeBorrar;5_Diana Serna;Pequeña empresa;San Salvador;San Salvador;El Salvador;Centro%%
+DS-13705_EstoSeDebeBorrar;5_Dino Saucedo;Empresa;Apartadó;Antioquia;Colombia;Sur%%
+DT-13270_EstoSeDebeBorrar;5_Daniel Tovar;Pequeña empresa;Quetzaltenango;Quezaltenango;Guatemala;Centro%%
+DT-13375_EstoSeDebeBorrar;5_Domingo Torres;Cliente;León;Guanajuato;M?xico;Norte%%
+DT-13585_EstoSeDebeBorrar;5_Dolores Treviño;Empresa;Masaya;Masaya;Nicaragua;Centro%%
+DT-13675_EstoSeDebeBorrar;5_Dorotea Treviño;Pequeña empresa;Ilopango;San Salvador;El Salvador;Centro%%
+DV-13285_EstoSeDebeBorrar;5_Daniela Vélez;Cliente;Cienfuegos;Cienfuegos;Cuba;Caribe%%
+DV-13420_EstoSeDebeBorrar;5_Dora Villaseñor;Empresa;Valledupar;Cesar;Colombia;Sur%%
+DV-13540_EstoSeDebeBorrar;5_Darío Vallejo;Cliente;Cholula;Puebla;M?xico;Norte%%
+EA-13765_EstoSeDebeBorrar;5_Elena Argüello;Empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro%%
+EA-13825_EstoSeDebeBorrar;5_Eloy Alcántara;Empresa;Santa Ana;Santa Ana;El Salvador;Centro%%
+EA-14140_EstoSeDebeBorrar;5_Elisenda Aguilar;Pequeña empresa;León;Guanajuato;M?xico;Norte%%
+EA-14170_EstoSeDebeBorrar;5_Estela Alonso;Cliente;Managua;Managua;Nicaragua;Centro%%
+EA-14185_EstoSeDebeBorrar;5_Eugenio Aranda;Cliente;Bayamo;Granma;Cuba;Caribe%%
+EA-14275_EstoSeDebeBorrar;5_Emanuel Almaraz;Empresa;Tlalpan;Distrito Federal;M?xico;Norte%%
+EA-14470_EstoSeDebeBorrar;5_Ezequiel Acevedo;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+EB-14005_EstoSeDebeBorrar;5_Emilia Becerra;Pequeña empresa;Uruguaiana;Río Grande del Sur;Brasil;Sur%%
+EB-14245_EstoSeDebeBorrar;5_Eugenia Burgos;Pequeña empresa;Piedecuesta;Santander;Colombia;Sur%%
+EC-13795_EstoSeDebeBorrar;5_Eleonor Carranza;Pequeña empresa;Tlalnepantla;México;M?xico;Norte%%
+EC-13840_EstoSeDebeBorrar;5_Elisa Collazo;Empresa;Puebla;Puebla;M?xico;Norte%%
+EC-13870_EstoSeDebeBorrar;5_Edith Callas;Cliente;Montevideo;Montevideo;Uruguay;Sur%%
+EC-14080_EstoSeDebeBorrar;5_Ernesto Cervantes;Empresa;São Paulo;São Paulo;Brasil;Sur###
+EC-14095_EstoSeDebeBorrar;5_Estefanía Castelo;Empresa;Garza García;Nuevo León;M?xico;Norte###
+EC-14260_EstoSeDebeBorrar;5_Efraín Collazo;Pequeña empresa;Neuquén;Neuquén;Argentina;Sur###
+ÉC-14365_EstoSeDebeBorrar;5_Érica Casas;Empresa;Mexicali;Baja California;M?xico;Norte###
+EC-14380_EstoSeDebeBorrar;5_Ester Cisneros;Cliente;Viña del Mar;Valparaíso;Chile;Sur###
+EC-14395_EstoSeDebeBorrar;5_Ernestina Cepeda;Empresa;Mendoza;Mendoza;Argentina;Sur$$$$
+EC-14410_EstoSeDebeBorrar;5_Eusebio Cano;Pequeña empresa;Ciudad de México;Distrito Federal;M?xico;Norte$$$$
+EC-14530_EstoSeDebeBorrar;5_Evaristo Corona;Empresa;Mejicanos;San Salvador;El Salvador;Centro$$$$
+ED-14065_EstoSeDebeBorrar;5_Elba Durán;Cliente;Querétaro;Querétaro;M?xico;Norte$$$$
+ED-14125_EstoSeDebeBorrar;5_Eleonora Delgadillo;Pequeña empresa;San Pedro Sula;Cortés;Honduras;Centro$$$$
+EG-13735_EstoSeDebeBorrar;5_Edith González;Pequeña empresa;Santa Catarina;Nuevo León;M?xico;Norte###
+EG-14050_EstoSeDebeBorrar;5_Elías Guerrero;Cliente;Mar del Plata;Provincia de Buenos Aires;Argentina;Sur###
+EG-14320_EstoSeDebeBorrar;5_Eulalio García;Cliente;Ciudad Obregón;Sonora;M?xico;Norte###
+EH-13915_EstoSeDebeBorrar;5_Emilio Huertas;Cliente;Monterrey;Nuevo León;M?xico;Norte###
+EL-14350_EstoSeDebeBorrar;5_Eva Lara;Cliente;San Salvador;San Salvador;El Salvador;Centro###
+EL-14425_EstoSeDebeBorrar;5_Ernesto León;Cliente;Ciudad de Panam?;Panam?;Panam?;Centro###
+EM-13750_EstoSeDebeBorrar;5_Eduardo Méndez;Empresa;Santo André;São Paulo;Brasil;Sur$$$$
+EM-13855_EstoSeDebeBorrar;5_Elías Macías;Empresa;Cienfuegos;Cienfuegos;Cuba;Caribe$$$$
+EM-13945_EstoSeDebeBorrar;5_Emanuel Mesa;Cliente;San Salvador;San Salvador;El Salvador;Centro$$$$
+EM-13990_EstoSeDebeBorrar;5_Elsa Mújica;Cliente;Villa Nueva;Guatemala;Guatemala;Centro$$$$
+EM-14110_EstoSeDebeBorrar;5_Esperanza Mesa;Cliente;San Martín;Cuscatlán;El Salvador;Centro$$$$
+EM-14455_EstoSeDebeBorrar;5_Esmeralda Montenegro;Pequeña empresa;Moa;Holguín;Cuba;Caribe###
+EM-14500_EstoSeDebeBorrar;5_Eulalia Márquez;Cliente;Delgado;San Salvador;El Salvador;Centro###
+EN-13900_EstoSeDebeBorrar;5_Emilio Noriega;Cliente;Saltillo;Coahuila;M?xico;Norte###
+EN-14020_EstoSeDebeBorrar;5_Elvira Nieves;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte###
+EO-13885_EstoSeDebeBorrar;5_Edith Ojeda;Pequeña empresa;Cúcuta;Norte de Santander;Colombia;Sur###
+EO-14440_EstoSeDebeBorrar;5_Estefanía Ortiz;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+EP-13780_EstoSeDebeBorrar;5_Elena Padrón;Cliente;Córdoba;Veracruz;M?xico;Norte$$$$
+EP-13810_EstoSeDebeBorrar;5_Eleonor Pina;Empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe$$$$
+EP-14215_EstoSeDebeBorrar;5_Evaristo Pérez;Empresa;Monterrey;Nuevo León;M?xico;Norte$$$$
+ER-14035_EstoSeDebeBorrar;5_Eric Ruiz;Empresa;Ciudad Madero;Tamaulipas;M?xico;Norte$$$$
+ER-14305_EstoSeDebeBorrar;5_Enric Ruiz;Cliente;San Pablo de las Salinas;México;M?xico;Norte$$$$
+ER-14335_EstoSeDebeBorrar;5_Eugenio Rentería;Empresa;Córdoba;Veracruz;M?xico;Norte###
+ER-14485_EstoSeDebeBorrar;5_Eulalia Rolón;Empresa;Tijuana;Baja California;M?xico;Norte###
+ES-13975_EstoSeDebeBorrar;5_Eloísa Soto;Empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+ES-14200_EstoSeDebeBorrar;5_Emanuel Saucedo;Pequeña empresa;Huehuetenango;Huehuetenango;Guatemala;Centro###
+ES-14230_EstoSeDebeBorrar;5_Emiliana Serna;Empresa;Paulista;Pernambuco;Brasil;Sur###
+ES-14290_EstoSeDebeBorrar;5_Eduardo Sierra;Pequeña empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+ES-14515_EstoSeDebeBorrar;5_Eulalia Sánchez;Cliente;León;León;Nicaragua;Centro$$$$
+ET-13930_EstoSeDebeBorrar;5_Emilio Tejeda;Cliente;Nueva Gerona;Isla de la Juventud;Cuba;Caribe$$$$
+EV-13960_EstoSeDebeBorrar;5_Enrique Varela;Cliente;Morelia;Michoacán;M?xico;Norte$$$$
+EV-14155_EstoSeDebeBorrar;5_Esteban Velázquez;Cliente;Oruro;Oruro;Bolivia;Sur$$$$
+FA-14770_EstoSeDebeBorrar;5_Flora Armijo;Pequeña empresa;Ciudad de Panam?;Panam?;Panam?;Centro$$$$
+FA-14800_EstoSeDebeBorrar;5_Florencio Anguiano;Empresa;San Miguelito;Panam?;Panam?;Centro###
+FA-14905_EstoSeDebeBorrar;5_Francisco Alonso;Cliente;Novo Cruzeiro;Minas Gerais;Brasil;Sur###
+FB-14590_EstoSeDebeBorrar;5_Flavia Bravo;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte###
+FB-14965_EstoSeDebeBorrar;5_Froilán Barrera;Empresa;San Salvador;San Salvador;El Salvador;Centro###
+FB-14980_EstoSeDebeBorrar;5_Fuensanta Barrios;Cliente;São Paulo;São Paulo;Brasil;Sur###
+FB-14995_EstoSeDebeBorrar;5_Fidel Badillo;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+FC-14560_EstoSeDebeBorrar;5_Faustina Carrera;Empresa;Carrefour;Ouest;Hait?;Caribe$$$$
+FC-14695_EstoSeDebeBorrar;5_Federico Callas;Empresa;Catia La Mar;Vargas;Venezuela;Sur$$$$
+FC-14950_EstoSeDebeBorrar;5_Federico Carballo;Cliente;León;Guanajuato;M?xico;Norte$$$$
+FF-14890_EstoSeDebeBorrar;5_Fidel Ferrer;Empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+FG-14935_EstoSeDebeBorrar;5_Federico García;Empresa;Soyapango;San Salvador;El Salvador;Centro###
+FG-15010_EstoSeDebeBorrar;5_Faustina Garrido;Empresa;Escuintla;Escuintla;Guatemala;Centro###
+FH-14575_EstoSeDebeBorrar;5_Faustina Huerta;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+FJ-14830_EstoSeDebeBorrar;5_Fernanda Juárez;Empresa;São Bernardo do Campo;São Paulo;Brasil;Sur###
+FL-14665_EstoSeDebeBorrar;5_Fernando Limón;Cliente;São Benedito;Ceará;Brasil;Sur$$$$
+FL-14845_EstoSeDebeBorrar;5_Francisco Loera;Cliente;Ilopango;San Salvador;El Salvador;Centro$$$$
+FM-14650_EstoSeDebeBorrar;5_Felicia Montañez;Empresa;Mixco;Guatemala;Guatemala;Centro$$$$
+FM-14680_EstoSeDebeBorrar;5_Florida Mascarenas;Cliente;Belo Horizonte;Minas Gerais;Brasil;Sur$$$$
+FM-14710_EstoSeDebeBorrar;5_Félix Mendoza;Cliente;Santa Catarina;Nuevo León;M?xico;Norte$$$$
+FM-14785_EstoSeDebeBorrar;5_Flora Montes;Pequeña empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+FM-14920_EstoSeDebeBorrar;5_Francisco Molina;Cliente;Cochabamba;Cochabamba;Bolivia;Sur###
+FN-14875_EstoSeDebeBorrar;5_Florinda Negrón;Pequeña empresa;Hermosillo;Sonora;M?xico;Norte###
+FO-14725_EstoSeDebeBorrar;5_Felipe Olivera;Cliente;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur###
+FO-14755_EstoSeDebeBorrar;5_Felipe Oquendo;Cliente;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe###
+FP-14545_EstoSeDebeBorrar;5_Fátima Pina;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte###
+FP-14605_EstoSeDebeBorrar;5_Flavia Pelayo;Cliente;Sonsonate;Sonsonate;El Salvador;Centro$$$$
+FT-14635_EstoSeDebeBorrar;5_Florencia Terán;Empresa;Azcapotzalco;Distrito Federal;M?xico;Norte$$$$
+FT-14815_EstoSeDebeBorrar;5_Fito Trujillo;Pequeña empresa;Monterrey;Nuevo León;M?xico;Norte$$$$
+FV-14620_EstoSeDebeBorrar;5_Flavia Valles;Empresa;Lima;Lima (city);Per?;Sur$$$$
+FV-14740_EstoSeDebeBorrar;5_Felipe Vélez;Empresa;Cienfuegos;Cienfuegos;Cuba;Caribe$$$$
+FV-14860_EstoSeDebeBorrar;5_Flavio Vergara;Empresa;Guadalajara;Jalisco;M?xico;Norte###
+GA-15040_EstoSeDebeBorrar;5_Gema Acosta;Cliente;Managua;Managua;Nicaragua;Centro###
+GA-15175_EstoSeDebeBorrar;5_Germán Altamira;Pequeña empresa;Puebla;Puebla;M?xico;Norte###
+GA-15190_EstoSeDebeBorrar;5_Gerardo Almonta;Cliente;Punta Arenas;Magallanes y Antártica Chilena;Chile;Sur###
+GA-15205_EstoSeDebeBorrar;5_Gregorio Acuna;Cliente;Pelotas;Río Grande del Sur;Brasil;Sur###
+GA-15325_EstoSeDebeBorrar;5_Germán Armijo;Empresa;David;Chiriquí;Panam?;Centro###
+GA-15355_EstoSeDebeBorrar;5_Goratze Almaraz;Cliente;Guadalajara;Jalisco;M?xico;Norte$$$$
+GB-15055_EstoSeDebeBorrar;5_Gabriela Bustamante;Cliente;Guanajuato;Guanajuato;M?xico;Norte$$$$
+GB-15070_EstoSeDebeBorrar;5_Gabriela Barca;Cliente;La Ceiba;Atlántida;Honduras;Centro$$$$
+GB-15415_EstoSeDebeBorrar;5_Grecia Batista;Cliente;Zapopan;Jalisco;M?xico;Norte$$$$
+GC-15085_EstoSeDebeBorrar;5_Genoveva Contreras;Cliente;San Pedro Sula;Cortés;Honduras;Centro$$$$
+GC-15130_EstoSeDebeBorrar;5_Gerardo Carrillo;Cliente;João Pessoa;Paraíba;Brasil;Sur###
+GC-15160_EstoSeDebeBorrar;5_Gloria Carrera;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+GC-15385_EstoSeDebeBorrar;5_Gracia Collado;Cliente;Santana de Parnaíba;São Paulo;Brasil;Sur###
+GC-15460_EstoSeDebeBorrar;5_Guiomar Cuellar;Empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+GC-15520_EstoSeDebeBorrar;5_Gregorio Cuéllar;Cliente;Malambo;Atlántico;Colombia;Sur###
+GD-15145_EstoSeDebeBorrar;5_Gaspar Dávila;Empresa;Huixquilucan;México;M?xico;Norte###
+GD-15505_EstoSeDebeBorrar;5_Gustavo Dávila;Cliente;Huehuetenango;Huehuetenango;Guatemala;Centro$$$$
+GF-15445_EstoSeDebeBorrar;5_Guillermina Farías;Cliente;Tijuana;Baja California;M?xico;Norte$$$$
+GF-15490_EstoSeDebeBorrar;5_Gustavo Farías;Cliente;Torreón;Coahuila;M?xico;Norte$$$$
+GG-15265_EstoSeDebeBorrar;5_Gabriela Guerrero;Empresa;Montevideo;Montevideo;Uruguay;Sur$$$$
+GG-15340_EstoSeDebeBorrar;5_Gloria Girón;Cliente;Chihuahua;Chihuahua;M?xico;Norte$$$$
+GI-15370_EstoSeDebeBorrar;5_Gorka Irizarri;Cliente;Fernando de la Mora;Central;Paraguay;Sur###
+GJ-15295_EstoSeDebeBorrar;5_Gladis Juárez;Cliente;San Miguelito;Panam?;Panam?;Centro###
+GL-15235_EstoSeDebeBorrar;5_Guillermina Lebrón;Cliente;Chillán;Bío-Bío;Chile;Sur###
+GM-15280_EstoSeDebeBorrar;5_Gisela Maya;Cliente;Soacha;Cundinamarca;Colombia;Sur###
+GO-15025_EstoSeDebeBorrar;5_Gabriel Osorio;Cliente;Eunápolis;Bahía;Brasil;Sur###
+GO-15310_EstoSeDebeBorrar;5_Gema Olivera;Empresa;San Salvador;San Salvador;El Salvador;Centro###
+GO-15400_EstoSeDebeBorrar;5_Gracias Olivera;Empresa;Lima;Lima (city);Per?;Sur$$$$
+GT-15220_EstoSeDebeBorrar;5_Gregoria Tristán;Empresa;Maringá;Paraná;Brasil;Sur$$$$
+GT-15250_EstoSeDebeBorrar;5_Gustavo Trejo;Cliente;Hermosillo;Sonora;M?xico;Norte$$$$
+GV-15100_EstoSeDebeBorrar;5_Gerardo Viera;Cliente;Ciudad Madero;Tamaulipas;M?xico;Norte$$$$
+GV-15430_EstoSeDebeBorrar;5_Germán Vallejo;Cliente;Choloma;Cortés;Honduras;Centro$$$$
+GV-15475_EstoSeDebeBorrar;5_Guido Varela;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+GZ-15115_EstoSeDebeBorrar;5_Gerardo Zaragoza;Cliente;Chihuahua;Chihuahua;M?xico;Norte###
+HA-15700_EstoSeDebeBorrar;5_Heidi Anaya;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+HA-15970_EstoSeDebeBorrar;5_Horacio Armendáriz;Cliente;Chinautla;Guatemala;Guatemala;Centro###
+HA-16075_EstoSeDebeBorrar;5_Higinio Anguiano;Cliente;Apatzingán de la Constitución;Michoacán;M?xico;Norte###
+HB-15820_EstoSeDebeBorrar;5_Hernando Baeza;Cliente;Cuscatancingo;San Salvador;El Salvador;Centro###
+HC-15535_EstoSeDebeBorrar;5_Hernán Callas;Cliente;Guarenas;Miranda;Venezuela;Sur%%
+HC-15685_EstoSeDebeBorrar;5_Hilda Contreras;Empresa;Delgado;San Salvador;El Salvador;Centro%%
+HC-15760_EstoSeDebeBorrar;5_Heraldo Cadena;Pequeña empresa;Fortaleza;Ceará;Brasil;Sur%%
+HC-15835_EstoSeDebeBorrar;5_Humberto Chavarría;Cliente;Soyapango;San Salvador;El Salvador;Centro%%
+HC-15865_EstoSeDebeBorrar;5_Higinia Concepción;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro%%
+HC-15955_EstoSeDebeBorrar;5_Hernán Canales;Cliente;Sancti Spíritus;Sancti Spíritus;Cuba;Caribe%%
+HC-15985_EstoSeDebeBorrar;5_Humberto Cepeda;Cliente;Tijuana;Baja California;M?xico;Norte%%
+HD-15790_EstoSeDebeBorrar;5_Herminio Díaz;Cliente;Santiago de Cuba;Santiago de Cuba;Cuba;Caribe%%
+HE-15715_EstoSeDebeBorrar;5_Herminia Enríquez;Cliente;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe%%
+HE-15895_EstoSeDebeBorrar;5_Homero Elizondo;Empresa;Zapopan;Jalisco;M?xico;Norte%%
+HE-16030_EstoSeDebeBorrar;5_Humberto Espinal;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+HF-15880_EstoSeDebeBorrar;5_Hipólito Fuentes;Cliente;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe%%
+HG-16060_EstoSeDebeBorrar;5_Hugo Gámez;Cliente;Apatzingán de la Constitución;Michoacán;M?xico;Norte%%
+HH-15850_EstoSeDebeBorrar;5_Higinia Horta;Cliente;Mixco;Guatemala;Guatemala;Centro%%
+HL-15550_EstoSeDebeBorrar;5_Helena Llarnas;Pequeña empresa;Itapetininga;São Paulo;Brasil;Sur%%
+HM-15745_EstoSeDebeBorrar;5_Humberto Montalvo;Cliente;Soyapango;San Salvador;El Salvador;Centro%%
+HM-16000_EstoSeDebeBorrar;5_Hugo Maldonado;Cliente;Arapongas;Paraná;Brasil;Sur%%
+HN-15940_EstoSeDebeBorrar;5_Horacio Nino;Pequeña empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro%%
+HO-15565_EstoSeDebeBorrar;5_Haydee Ortega;Cliente;Castanhal;Pará;Brasil;Sur%%
+HO-15595_EstoSeDebeBorrar;5_Higinio Ojeda;Empresa;Masaya;Masaya;Nicaragua;Centro%%
+HO-15640_EstoSeDebeBorrar;5_Heriberto Ortega;Pequeña empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+HO-15805_EstoSeDebeBorrar;5_Hernando Orellana;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte%%
+HP-15580_EstoSeDebeBorrar;5_Herminia Páez;Cliente;Tulancingo;Hidalgo;M?xico;Norte%%
+HP-15910_EstoSeDebeBorrar;5_Homero Paredes;Cliente;Matagalpa;Matagalpa;Nicaragua;Centro%%
+HQ-15730_EstoSeDebeBorrar;5_Hortensia Quiñones;Cliente;San Martín;Cuscatlán;El Salvador;Centro%%
+HR-15775_EstoSeDebeBorrar;5_Herendiara Rico;Cliente;San Salvador;San Salvador;El Salvador;Centro%%
+HS-15610_EstoSeDebeBorrar;5_Higinio Suárez;Empresa;San Cristóbal de Las Casas;Chiapas;M?xico;Norte%%
+HS-15655_EstoSeDebeBorrar;5_Héctor Salcido;Empresa;San Pedro Sula;Cortés;Honduras;Centro%%
+HT-16015_EstoSeDebeBorrar;5_Hugo Tomás;Cliente;Córdoba;Veracruz;M?xico;Norte%%
+HT-16045_EstoSeDebeBorrar;5_Humberto Torres;Pequeña empresa;Reynosa;Tamaulipas;M?xico;Norte%%
+HU-15670_EstoSeDebeBorrar;5_Héctor Urías;Cliente;Tecomán;Colima;M?xico;Norte%%
+HV-15625_EstoSeDebeBorrar;5_Heriberto Valderas;Cliente;Brasília;Distrito Federal;Brasil;Sur%%
+HV-15925_EstoSeDebeBorrar;5_Horacio Valverde;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+IA-16195_EstoSeDebeBorrar;5_Israel Alcaraz;Cliente;Coacalco;México;M?xico;Norte%%
+IA-16270_EstoSeDebeBorrar;5_Inocencio Arce;Cliente;Quetzaltenango;Quezaltenango;Guatemala;Centro%%
+IÁ-16285_EstoSeDebeBorrar;5_Irene Álamo;Pequeña empresa;Santiago;Santiago;Chile;Sur%%
+IB-16090_EstoSeDebeBorrar;5_Isaac Barajas;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+IB-16150_EstoSeDebeBorrar;5_Isabel Bermúdez;Empresa;Soyapango;San Salvador;El Salvador;Centro%%
+IB-16180_EstoSeDebeBorrar;5_Iris Barena;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte%%
+IC-16165_EstoSeDebeBorrar;5_Iris Campos;Empresa;Cruzeiro;São Paulo;Brasil;Sur%%
+IC-16210_EstoSeDebeBorrar;5_Isaac Cazares;Empresa;Santiago de Cuba;Santiago de Cuba;Cuba;Caribe%%
+IC-16405_EstoSeDebeBorrar;5_Iris Casares;Pequeña empresa;Blumenau;Santa Catarina;Brasil;Sur%%
+IC-16420_EstoSeDebeBorrar;5_Isabel Coronado;Empresa;Santa Clara;Villa Clara;Cuba;Caribe%%
+IC-16540_EstoSeDebeBorrar;5_Inés Calvillo;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte###
+IC-16555_EstoSeDebeBorrar;5_Ingrid Calvillo;Empresa;San Pedro Sula;Cortés;Honduras;Centro###
+ID-16345_EstoSeDebeBorrar;5_Irati Domínguez;Cliente;Rio Grande;Río Grande del Sur;Brasil;Sur###
+IE-16255_EstoSeDebeBorrar;5_Inmaculada Escobar;Empresa;Toluca;México;M?xico;Norte###
+IG-16495_EstoSeDebeBorrar;5_Isolda Guardado;Empresa;Chinandega;Chinandega;Nicaragua;Centro###
+IG-16570_EstoSeDebeBorrar;5_Iván Girón;Cliente;Dos Quebradas;Risaralda;Colombia;Sur$$$$
+IL-16105_EstoSeDebeBorrar;5_Isaac Leyva;Empresa;Yopal;Casanare;Colombia;Sur$$$$
+ÍL-16330_EstoSeDebeBorrar;5_Íñigo Leal;Empresa;Bridgetown;San Miguel;Barbados;Caribe$$$$
+IL-16375_EstoSeDebeBorrar;5_Ignacio Lobato;Pequeña empresa;Bonao;Monseñor Nouel;Rep?blica Dominicana;Caribe$$$$
+IL-16390_EstoSeDebeBorrar;5_Ignacio Liébanas;Empresa;Escuintla;Escuintla;Guatemala;Centro$$$$
+IL-16510_EstoSeDebeBorrar;5_Isolda Lucero;Cliente;Vitória;Espíritu Santo;Brasil;Sur###
+IL-16600_EstoSeDebeBorrar;5_Ivonne Laureano;Empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+IM-16225_EstoSeDebeBorrar;5_Isidoro Muñoz;Empresa;Santiago;Santiago;Chile;Sur###
+IM-16435_EstoSeDebeBorrar;5_Isidora Martín;Cliente;Feira de Santana;Bahía;Brasil;Sur###
+IO-16315_EstoSeDebeBorrar;5_Imanol Orellana;Cliente;Nueva Gerona;Isla de la Juventud;Cuba;Caribe###
+IR-16360_EstoSeDebeBorrar;5_Irati Rodríguez;Cliente;Ciudad de Panam?;Panam?;Panam?;Centro###
+IR-16465_EstoSeDebeBorrar;5_Isaías Rosales;Cliente;San Miguelito;Panam?;Panam?;Centro$$$$
+IR-16480_EstoSeDebeBorrar;5_Ida Ramos;Cliente;Gómez Palacio;Durango;M?xico;Norte$$$$
+IR-16525_EstoSeDebeBorrar;5_Irma Rubalcaba;Cliente;Mejicanos;San Salvador;El Salvador;Centro$$$$
+IS-16120_EstoSeDebeBorrar;5_Isaac Sarabia;Pequeña empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe$$$$
+IS-16240_EstoSeDebeBorrar;5_Isidoro Salas;Empresa;Barranquilla;Atlántico;Colombia;Sur$$$$
+IS-16450_EstoSeDebeBorrar;5_Isaías Sarabia;Empresa;Tijuana;Baja California;M?xico;Norte###
+IS-16585_EstoSeDebeBorrar;5_Izaskun Sosa;Empresa;Parintins;Amazonas;Brasil;Sur###
+IV-16135_EstoSeDebeBorrar;5_Iván Valle;Pequeña empresa;Coacalco;México;M?xico;Norte###
+IV-16300_EstoSeDebeBorrar;5_Irene Verdes;Empresa;Guantánamo;Guantánamo;Cuba;Caribe###
+JA-16705_EstoSeDebeBorrar;5_Jazmín Aguirre;Pequeña empresa;Bayamo;Granma;Cuba;Caribe###
+JA-16795_EstoSeDebeBorrar;5_Joaquín Apodaca;Pequeña empresa;Holguín;Holguín;Cuba;Caribe###
+JA-16885_EstoSeDebeBorrar;5_Joshua Altamirano;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro$$$$
+JA-16990_EstoSeDebeBorrar;5_Julieta Almanza;Empresa;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe$$$$
+JB-16675_EstoSeDebeBorrar;5_Josefa Bueno;Empresa;Porto Alegre;Río Grande del Sur;Brasil;Sur$$$$
+JB-16690_EstoSeDebeBorrar;5_Jennifer Botello;Empresa;Escuintla;Escuintla;Guatemala;Centro$$$$
+JC-16960_EstoSeDebeBorrar;5_Julio Corral;Pequeña empresa;Goiânia;Goiás;Brasil;Sur$$$$
+JC-17005_EstoSeDebeBorrar;5_Julio César Torres;Cliente;Ciudad de Panam?;Panam?;Panam?;Centro###
+JC-17035_EstoSeDebeBorrar;5_Jairo Castelo;Empresa;Baní;Peravia;Rep?blica Dominicana;Caribe###
+JC-17110_EstoSeDebeBorrar;5_Josefina Cruz;Cliente;Betim;Minas Gerais;Brasil;Sur###
+JD-16630_EstoSeDebeBorrar;5_Justo Díaz;Empresa;Quetzaltenango;Quezaltenango;Guatemala;Centro###
+JD-16900_EstoSeDebeBorrar;5_Josué Delgado;Cliente;Salta;Salta;Argentina;Sur###
+JG-16945_EstoSeDebeBorrar;5_Juanita Guzmán;Empresa;Bayamo;Granma;Cuba;Caribe###
+JG-17020_EstoSeDebeBorrar;5_Juno Guerrero;Cliente;Cienfuegos;Cienfuegos;Cuba;Caribe$$$$
+JH-16750_EstoSeDebeBorrar;5_José Hernández;Cliente;Ciudad Juárez;Chihuahua;M?xico;Norte$$$$
+JL-16870_EstoSeDebeBorrar;5_José Luís Canales;Cliente;Chinandega;Chinandega;Nicaragua;Centro$$$$
+JM-16645_EstoSeDebeBorrar;5_Jorge Montero;Cliente;San Pedro de Macorís;San Pedro de Macorís;Rep?blica Dominicana;Caribe$$$$
+JM-16720_EstoSeDebeBorrar;5_Jeremías Montés;Cliente;San Fernando del Valle de Catamarca;Catamarca;Argentina;Sur$$$$
+JM-16780_EstoSeDebeBorrar;5_Juana Madera;Empresa;Mixco;Guatemala;Guatemala;Centro###
+JM-16825_EstoSeDebeBorrar;5_Joaquina Meraz;Empresa;Caraguatatuba;São Paulo;Brasil;Sur###
+JO-16735_EstoSeDebeBorrar;5_Jeremías Orozco;Cliente;Tepic;Nayarit;M?xico;Norte###
+JP-16975_EstoSeDebeBorrar;5_Julia Paredes;Pequeña empresa;São Paulo;São Paulo;Brasil;Sur###
+JR-16615_EstoSeDebeBorrar;5_Judit Rodríguez;Empresa;Tlaquepaque;Jalisco;M?xico;Norte###
+JR-16840_EstoSeDebeBorrar;5_Jon Rascón;Cliente;Soyapango;San Salvador;El Salvador;Centro###
+JS-16660_EstoSeDebeBorrar;5_Jorge Saucedo;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte$$$$
+JS-16810_EstoSeDebeBorrar;5_Joaquín Saenz;Cliente;Culiacán;Sinaloa;M?xico;Norte$$$$
+JS-16915_EstoSeDebeBorrar;5_Josué Solórzano;Cliente;Lima;Lima (city);Per?;Sur$$$$
+JS-17095_EstoSeDebeBorrar;5_José Sánchez;Cliente;Bogotá;Bogotá;Colombia;Sur###
+JT-16855_EstoSeDebeBorrar;5_Jonás Toro;Empresa;San Miguelito;Panam?;Panam?;Centro###
+JT-17050_EstoSeDebeBorrar;5_Jairo Tovar;Cliente;Lima;Lima (city);Per?;Sur###
+JU-16765_EstoSeDebeBorrar;5_Jessica Ulloa;Cliente;San Andrés Tuxtla;Veracruz;M?xico;Norte###
+JU-17065_EstoSeDebeBorrar;5_Justa Uribe;Cliente;Pinar del Río;Pinar del Río;Cuba;Caribe###
+JV-17080_EstoSeDebeBorrar;5_Justina Vaca;Cliente;Irapuato;Guanajuato;M?xico;Norte$$$$
+JZ-16930_EstoSeDebeBorrar;5_Juana Zaragoza;Empresa;Osasco;São Paulo;Brasil;Sur$$$$
+KA-17125_EstoSeDebeBorrar;5_Kevin Alejandro;Cliente;Managua;Managua;Nicaragua;Centro$$$$
+KA-17215_EstoSeDebeBorrar;5_Karmele Andante;Cliente;Villa Nueva;Guatemala;Guatemala;Centro$$$$
+KÁ-17245_EstoSeDebeBorrar;5_Katia Ávila;Cliente;Tlalnepantla;México;M?xico;Norte$$$$
+KA-17350_EstoSeDebeBorrar;5_Kristina Arroyo;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte###
+KA-17365_EstoSeDebeBorrar;5_Kristopher Altamira;Cliente;Cholula;Puebla;M?xico;Norte###
+KB-17260_EstoSeDebeBorrar;5_Koldo Bernal;Cliente;Santa Ana;Santa Ana;El Salvador;Centro###
+KC-17200_EstoSeDebeBorrar;5_Karmele Carbajal;Empresa;Fort-de-France;Martinica;Martinica;Caribe###
+KC-17305_EstoSeDebeBorrar;5_Karina Cruz;Cliente;Ariquemes;Rondônia;Brasil;Sur###
+KD-17170_EstoSeDebeBorrar;5_Katia Díaz;Empresa;Managua;Managua;Nicaragua;Centro###
+KL-17290_EstoSeDebeBorrar;5_Kevin Lucio;Pequeña empresa;Zapopan;Jalisco;M?xico;Norte$$$$
+KM-17185_EstoSeDebeBorrar;5_Katia Montalvo;Cliente;Consolación del Sur;Pinar del Río;Cuba;Caribe$$$$
+KP-17140_EstoSeDebeBorrar;5_Karen Partida;Cliente;El Progreso;Yoro;Honduras;Centro$$$$
+KP-17230_EstoSeDebeBorrar;5_Katia Pino;Cliente;Managua;Managua;Nicaragua;Centro$$$$
+KP-17275_EstoSeDebeBorrar;5_Karina Padilla;Cliente;San Salvador;San Salvador;El Salvador;Centro$$$$
+KS-17320_EstoSeDebeBorrar;5_Karina Suárez;Pequeña empresa;Bagé;Río Grande del Sur;Brasil;Sur###
+KV-17155_EstoSeDebeBorrar;5_Karim Valdés;Cliente;Mendoza;Mendoza;Argentina;Sur###
+KV-17335_EstoSeDebeBorrar;5_Kevin Vera;Pequeña empresa;Ciudad Valles;San Luis Potosí;M?xico;Norte###
+LA-17395_EstoSeDebeBorrar;5_Leandro Armendáriz;Empresa;Santa Clara;Villa Clara;Cuba;Caribe###
+LÁ-17620_EstoSeDebeBorrar;5_León Ávila;Empresa;Toluca;México;M?xico;Norte###
+LA-17650_EstoSeDebeBorrar;5_Lea Arroyo;Pequeña empresa;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe###
+LA-17710_EstoSeDebeBorrar;5_Luciano Alonzo;Cliente;Santa Catarina;Nuevo León;M?xico;Norte$$$$
+LA-17905_EstoSeDebeBorrar;5_Leopoldo Archuleta;Empresa;San Salvador;San Salvador;El Salvador;Centro$$$$
+LA-17980_EstoSeDebeBorrar;5_Lorena Aguayo;Empresa;Bogotá;Bogotá;Colombia;Sur$$$$
+LA-18040_EstoSeDebeBorrar;5_Loyola Alba;Empresa;San Miguelito;Panam?;Panam?;Centro$$$$
+LB-17380_EstoSeDebeBorrar;5_Lázaro Bernal;Empresa;Contramaestre;Santiago de Cuba;Cuba;Caribe$$$$
+LB-17425_EstoSeDebeBorrar;5_León Batista;Empresa;Managua;Managua;Nicaragua;Centro###
+LB-17545_EstoSeDebeBorrar;5_Laia Batista;Pequeña empresa;Santa Clara;Villa Clara;Cuba;Caribe###
+LB-17860_EstoSeDebeBorrar;5_Luciano Bernal;Empresa;Atlixco;Puebla;M?xico;Norte###
+LB-17950_EstoSeDebeBorrar;5_Livia Banda;Cliente;León;León;Nicaragua;Centro###
+LB-18070_EstoSeDebeBorrar;5_Luisa Benítez;Pequeña empresa;San Pedro Sula;Cortés;Honduras;Centro###
+LC-17440_EstoSeDebeBorrar;5_Lara Cantú;Empresa;Ciudad Juárez;Chihuahua;M?xico;Norte###
+LC-17485_EstoSeDebeBorrar;5_Leticia Castillo;Cliente;Bajos de Haina;San Cristóbal;Rep?blica Dominicana;Caribe$$$$
+LC-17530_EstoSeDebeBorrar;5_Loreto Cepeda;Cliente;San Francisco del Rincón;Guanajuato;M?xico;Norte$$$$
+LC-17635_EstoSeDebeBorrar;5_León Caballero;Empresa;Zapopan;Jalisco;M?xico;Norte$$$$
+LC-17800_EstoSeDebeBorrar;5_Lorena Corral;Pequeña empresa;Chinautla;Guatemala;Guatemala;Centro$$$$
+LC-17965_EstoSeDebeBorrar;5_Lola Crespo;Empresa;San Justo;Santa Fe;Argentina;Sur$$$$
+LC-18010_EstoSeDebeBorrar;5_Lola Cavazos;Empresa;San Pedro de Macorís;San Pedro de Macorís;Rep?blica Dominicana;Caribe###
+LD-18130_EstoSeDebeBorrar;5_Luna Delgado;Empresa;Orizaba;Veracruz;M?xico;Norte###
+LE-17590_EstoSeDebeBorrar;5_Lupe Escalante;Empresa;Paraná;Entre Ríos;Argentina;Sur###
+LF-17500_EstoSeDebeBorrar;5_Leticia Flórez;Cliente;Caxias do Sul;Río Grande del Sur;Brasil;Sur###
+LG-17410_EstoSeDebeBorrar;5_Leo Gutiérrez;Cliente;Mérida;Yucatán;M?xico;Norte###
+LG-17515_EstoSeDebeBorrar;5_Lorenzo Garrido;Empresa;Bogotá;Bogotá;Colombia;Sur###
+LG-17815_EstoSeDebeBorrar;5_Lorena Garay;Cliente;San Juan del Río;Querétaro;M?xico;Norte$$$$
+LG-17920_EstoSeDebeBorrar;5_Leonor Gómez;Cliente;Penedo;Alagoas;Brasil;Sur$$$$
+LL-17845_EstoSeDebeBorrar;5_Lidia Laureano;Cliente;Tampico;Tamaulipas;M?xico;Norte$$$$
+LL-18085_EstoSeDebeBorrar;5_Luisa Liébanas;Cliente;Querétaro;Querétaro;M?xico;Norte$$$$
+LM-17605_EstoSeDebeBorrar;5_Lucrecia Maldonado;Empresa;Villa Canales;Guatemala;Guatemala;Centro$$$$
+LM-17755_EstoSeDebeBorrar;5_Laura Meza;Pequeña empresa;Acayucan;Veracruz;M?xico;Norte###
+LM-17995_EstoSeDebeBorrar;5_Lorenzo Mata;Pequeña empresa;San Pedro de Macorís;San Pedro de Macorís;Rep?blica Dominicana;Caribe###
+LM-18115_EstoSeDebeBorrar;5_Lucas Méndez;Pequeña empresa;San Pedro Sula;Cortés;Honduras;Centro###
+LN-17680_EstoSeDebeBorrar;5_Lucas Nazario;Pequeña empresa;Rosario;Santa Fe;Argentina;Sur###
+LO-17455_EstoSeDebeBorrar;5_Leonardo Olmos;Cliente;Azcapotzalco;Distrito Federal;M?xico;Norte###
+LP-17725_EstoSeDebeBorrar;5_Lía Pabón;Cliente;Mejicanos;San Salvador;El Salvador;Centro###
+LP-17740_EstoSeDebeBorrar;5_Laura Prieto;Cliente;Carrefour;Ouest;Hait?;Caribe%%
+LP-17785_EstoSeDebeBorrar;5_Lara Porras;Empresa;Santa Catarina;Nuevo León;M?xico;Norte%%
+LR-17665_EstoSeDebeBorrar;5_Lope Rodríguez;Empresa;Quetzaltenango;Quezaltenango;Guatemala;Centro%%
+LS-17560_EstoSeDebeBorrar;5_Laia Santillán;Pequeña empresa;Ciudad de México;Distrito Federal;M?xico;Norte%%
+LS-17695_EstoSeDebeBorrar;5_Luciano Sosa;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte%%
+LS-17875_EstoSeDebeBorrar;5_Luciano Solórzano;Pequeña empresa;Querétaro;Querétaro;M?xico;Norte%%
+LS-17890_EstoSeDebeBorrar;5_Lina Sevilla;Pequeña empresa;Irapuato;Guanajuato;M?xico;Norte%%
+LS-18100_EstoSeDebeBorrar;5_Luján Salinas;Cliente;Guarujá;São Paulo;Brasil;Sur%%
+LT-17935_EstoSeDebeBorrar;5_Luís Tejada;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro%%
+LV-17470_EstoSeDebeBorrar;5_Leire Velázquez;Pequeña empresa;Tuxtla Gutiérrez;Chiapas;M?xico;Norte%%
+LV-17575_EstoSeDebeBorrar;5_Lourdes Villegas;Cliente;El Progreso;Yoro;Honduras;Centro%%
+LV-17770_EstoSeDebeBorrar;5_Lara Varela;Cliente;Fortaleza;Ceará;Brasil;Sur%%
+LV-17830_EstoSeDebeBorrar;5_Lucía Villa;Cliente;Santiago del Estero;Santiago del Estero;Argentina;Sur%%
+LV-18025_EstoSeDebeBorrar;5_Luís Velázquez;Cliente;Curitiba;Paraná;Brasil;Sur%%
+LV-18055_EstoSeDebeBorrar;5_Luján Valdés;Cliente;Irapuato;Guanajuato;M?xico;Norte%%
+LV-18145_EstoSeDebeBorrar;5_Lidia Villaseñor;Cliente;Santa Ana;Santa Ana;El Salvador;Centro%%
+MA-18250_EstoSeDebeBorrar;5_Mafalda Alvarado;Empresa;São Paulo;São Paulo;Brasil;Sur%%
+MA-18370_EstoSeDebeBorrar;5_Manuela Armenta;Cliente;Gravataí;Río Grande del Sur;Brasil;Sur%%
+MA-18415_EstoSeDebeBorrar;5_Mariano Alejandro;Cliente;Cúcuta;Norte de Santander;Colombia;Sur%%
+MA-18580_EstoSeDebeBorrar;5_Matilde Alvarado;Empresa;Ciudad de Panam?;Panam?;Panam?;Centro%%
+MA-18610_EstoSeDebeBorrar;5_Marga Alcántara;Empresa;São Bernardo do Campo;São Paulo;Brasil;Sur%%
+MA-18670_EstoSeDebeBorrar;5_Melania Acevedo;Cliente;Jiutepec;Morelos;M?xico;Norte%%
+MA-18685_EstoSeDebeBorrar;5_María Acosta;Pequeña empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro%%
+MA-18850_EstoSeDebeBorrar;5_Miguelina Agosto;Cliente;Monclova;Coahuila;M?xico;Norte%%
+MA-18925_EstoSeDebeBorrar;5_Mirna Aparicio;Pequeña empresa;Petapa;Guatemala;Guatemala;Centro%%
+MB-18805_EstoSeDebeBorrar;5_Millán Becerra;Pequeña empresa;Ilopango;San Salvador;El Salvador;Centro%%
+MB-19030_EstoSeDebeBorrar;5_Mora Borrego;Empresa;Gonaïves;L'Artibonite;Hait?;Caribe%%
+MC-18445_EstoSeDebeBorrar;5_Marcel Corral;Pequeña empresa;Managua;Managua;Nicaragua;Centro%%
+MC-18505_EstoSeDebeBorrar;5_Maro Castro;Cliente;Puebla;Puebla;M?xico;Norte%%
+MC-18595_EstoSeDebeBorrar;5_Matilda Carbajal;Pequeña empresa;Soyapango;San Salvador;El Salvador;Centro%%
+MC-18760_EstoSeDebeBorrar;5_Mauro Cortés;Cliente;Piedras Negras;Coahuila;M?xico;Norte%%
+MC-18865_EstoSeDebeBorrar;5_Miguel Chapa;Cliente;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe%%
+MC-18880_EstoSeDebeBorrar;5_Miguel Curiel;Cliente;Gómez Palacio;Durango;M?xico;Norte%%
+MC-18895_EstoSeDebeBorrar;5_Marisa Cantudo;Cliente;Amatitlán;Guatemala;Guatemala;Centro%%
+MC-19045_EstoSeDebeBorrar;5_Mirna Callas;Pequeña empresa;David;Chiriquí;Panam?;Centro%%
+MF-18280_EstoSeDebeBorrar;5_Magdalena Farías;Empresa;Matanzas;Matanzas;Cuba;Caribe%%
+MF-18385_EstoSeDebeBorrar;5_Manuela Flores;Cliente;Petapa;Guatemala;Guatemala;Centro%%
+MF-18490_EstoSeDebeBorrar;5_Marlén Farías;Pequeña empresa;San Miguelito;Panam?;Panam?;Centro%%
+MG-18355_EstoSeDebeBorrar;5_Maite Girón;Empresa;Santiago de Cuba;Santiago de Cuba;Cuba;Caribe%%
+MG-18775_EstoSeDebeBorrar;5_Máximo Guzmán;Pequeña empresa;Garza García;Nuevo León;M?xico;Norte%%
+MG-18910_EstoSeDebeBorrar;5_Mireia Garay;Pequeña empresa;Managua;Managua;Nicaragua;Centro%%
+MG-18970_EstoSeDebeBorrar;5_Miren Gil;Pequeña empresa;Bogotá;Bogotá;Colombia;Sur%%
+MG-19015_EstoSeDebeBorrar;5_Mónica Granados;Cliente;San Miguelito;Panam?;Panam?;Centro%%
+ML-18325_EstoSeDebeBorrar;5_Marcos Laureano;Cliente;Ciudad Juárez;Chihuahua;M?xico;Norte###
+ML-18790_EstoSeDebeBorrar;5_Melanio Lerma;Pequeña empresa;Ijuí;Río Grande del Sur;Brasil;Sur###
+ML-18940_EstoSeDebeBorrar;5_Moisés Lucio;Cliente;Pinar del Río;Pinar del Río;Cuba;Caribe###
+MM-18175_EstoSeDebeBorrar;5_Maciela Mata;Pequeña empresa;São Paulo;São Paulo;Brasil;Sur###
+MM-18220_EstoSeDebeBorrar;5_Maya Méndez;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte###
+MM-18460_EstoSeDebeBorrar;5_Maricruz Matos;Empresa;Maturín;Monagas;Venezuela;Sur$$$$
+MM-18475_EstoSeDebeBorrar;5_Marina Marrero;Pequeña empresa;Managua;Managua;Nicaragua;Centro$$$$
+MM-18535_EstoSeDebeBorrar;5_Marta Manzanares;Empresa;Caracas;Distrito Capital;Venezuela;Sur$$$$
+MM-18625_EstoSeDebeBorrar;5_Maximiliano Méndez;Empresa;Querétaro;Querétaro;M?xico;Norte$$$$
+MM-18715_EstoSeDebeBorrar;5_Melis Montes;Empresa;Coyoacán;Distrito Federal;M?xico;Norte$$$$
+MN-18160_EstoSeDebeBorrar;5_Macarena Nava;Cliente;Pinar del Río;Pinar del Río;Cuba;Caribe###
+MO-18700_EstoSeDebeBorrar;5_Melisa Olivo;Cliente;San Luis Río Colorado;Sonora;M?xico;Norte###
+MO-18730_EstoSeDebeBorrar;5_Margarita Orellana;Cliente;Santiago;Santiago;Chile;Sur###
+MP-19000_EstoSeDebeBorrar;5_Mónica Pelayo;Pequeña empresa;Guadalajara;Jalisco;M?xico;Norte###
+MQ-18835_EstoSeDebeBorrar;5_Modesto Quiñones;Empresa;Zapopan;Jalisco;M?xico;Norte###
+MR-18205_EstoSeDebeBorrar;5_Mafalda Rojo;Empresa;Medellín;Antioquia;Colombia;Sur###
+MR-18400_EstoSeDebeBorrar;5_Manila Roque;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe$$$$
+MR-18430_EstoSeDebeBorrar;5_Marc Romo;Cliente;São Paulo;São Paulo;Brasil;Sur$$$$
+MR-18550_EstoSeDebeBorrar;5_Mateo Rodríguez;Cliente;San Pedro de Macorís;San Pedro de Macorís;Rep?blica Dominicana;Caribe$$$$
+MR-18745_EstoSeDebeBorrar;5_Maribel Ríos;Empresa;San Pedro Sula;Cortés;Honduras;Centro$$$$
+MR-18820_EstoSeDebeBorrar;5_Millán Rubio;Cliente;Apopa;San Salvador;El Salvador;Centro$$$$
+MR-18985_EstoSeDebeBorrar;5_Melinda Ramos;Pequeña empresa;Salto;São Paulo;Brasil;Sur###
+MS-18295_EstoSeDebeBorrar;5_Marcial Sandoval;Empresa;Poza Rica de Hidalgo;Veracruz;M?xico;Norte###
+MS-18565_EstoSeDebeBorrar;5_Mateo Salazar;Pequeña empresa;Veracruz;Veracruz;M?xico;Norte###
+MS-18655_EstoSeDebeBorrar;5_Mauricio Salgado;Empresa;Antiguo Cuscatlán;La Libertad;El Salvador;Centro###
+MT-18235_EstoSeDebeBorrar;5_Maya Tapia;Empresa;Sorocaba;São Paulo;Brasil;Sur###
+MT-18265_EstoSeDebeBorrar;5_Maira Trejo;Cliente;San Pedro Sula;Cortés;Honduras;Centro###
+MT-18520_EstoSeDebeBorrar;5_Marta Tovar;Cliente;Ciudad Hidalgo;Michoacán;M?xico;Norte$$$$
+MT-18640_EstoSeDebeBorrar;5_Maya Tafoya;Empresa;Guadalajara;Jalisco;M?xico;Norte$$$$
+MU-18955_EstoSeDebeBorrar;5_Montano Uribarri;Pequeña empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe$$$$
+MV-18190_EstoSeDebeBorrar;5_Marc Vallejo;Cliente;Salvador;Bahía;Brasil;Sur$$$$
+MV-18310_EstoSeDebeBorrar;5_Marcial Valdés;Pequeña empresa;Bayamo;Granma;Cuba;Caribe$$$$
+MV-18340_EstoSeDebeBorrar;5_Malena Viera;Cliente;Ilopango;San Salvador;El Salvador;Centro###
+NA-19195_EstoSeDebeBorrar;5_Natasha Arévalo;Pequeña empresa;Charallave;Miranda;Venezuela;Sur###
+NA-19285_EstoSeDebeBorrar;5_Nicole Argüello;Cliente;Guarapuava;Paraná;Brasil;Sur###
+NA-19495_EstoSeDebeBorrar;5_Nora Arroyo;Cliente;Valparaíso de Goiás;Goiás;Brasil;Sur###
+NA-19510_EstoSeDebeBorrar;5_Norma Alemán;Pequeña empresa;Tartagal;Salta;Argentina;Sur###
+NB-19135_EstoSeDebeBorrar;5_Nadia Badillo;Pequeña empresa;Santa Cruz de la Sierra;Santa Cruz;Bolivia;Sur###
+NC-19150_EstoSeDebeBorrar;5_Nadia Calderón;Cliente;Cholula;Puebla;M?xico;Norte$$$$
+NC-19255_EstoSeDebeBorrar;5_Natividad Collazo;Empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro$$$$
+NC-19270_EstoSeDebeBorrar;5_Nerea Colunga;Empresa;Tipitapa;Managua;Nicaragua;Centro$$$$
+NE-19060_EstoSeDebeBorrar;5_Nadal Escalante;Pequeña empresa;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur$$$$
+NG-19165_EstoSeDebeBorrar;5_Noemí González;Cliente;Campeche;Campeche;M?xico;Norte$$$$
+NH-19240_EstoSeDebeBorrar;5_Neftalí Herrera;Cliente;Ciudad de Panam?;Panam?;Panam?;Centro###
+NJ-19330_EstoSeDebeBorrar;5_Nieves Jasón;Cliente;Celaya;Guanajuato;M?xico;Norte###
+NJ-19420_EstoSeDebeBorrar;5_Nilo Jaime;Empresa;Jiutepec;Morelos;M?xico;Norte###
+NL-19105_EstoSeDebeBorrar;5_Naiara Laboy;Cliente;General Escobedo;Nuevo León;M?xico;Norte###
+NL-19300_EstoSeDebeBorrar;5_Nelson Limón;Cliente;La Ceiba;Atlántida;Honduras;Centro###
+NL-19435_EstoSeDebeBorrar;5_Noa León;Cliente;Villa Nueva;Guatemala;Guatemala;Centro###
+NL-19480_EstoSeDebeBorrar;5_Nuncio Lugo;Cliente;Zapopan;Jalisco;M?xico;Norte$$$$
+NL-19525_EstoSeDebeBorrar;5_Núria Laureano;Empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe$$$$
+NM-19090_EstoSeDebeBorrar;5_Néstor Mena;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte$$$$
+NM-19120_EstoSeDebeBorrar;5_Nicolás Matías;Cliente;Bogotá;Bogotá;Colombia;Sur###
+NM-19315_EstoSeDebeBorrar;5_Noé Martínez;Cliente;Amatitlán;Guatemala;Guatemala;Centro###
+NM-19390_EstoSeDebeBorrar;5_Nidia Mena;Cliente;Barquisimeto;Lara;Venezuela;Sur###
+NM-19450_EstoSeDebeBorrar;5_Nino Mata;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+NP-19210_EstoSeDebeBorrar;5_Natalia Paredes;Empresa;Guantánamo;Guantánamo;Cuba;Caribe###
+NP-19225_EstoSeDebeBorrar;5_Natalia Pulido;Cliente;São Paulo;São Paulo;Brasil;Sur$$$$
+NP-19375_EstoSeDebeBorrar;5_Normán Pedrosa;Cliente;Chimaltenango;Chimaltenango;Guatemala;Centro$$$$
+NP-19405_EstoSeDebeBorrar;5_Nina Pérez;Cliente;Guayaquil;Guayas;Ecuador;Sur$$$$
+NP-19540_EstoSeDebeBorrar;5_Nuri Pizarro;Empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro$$$$
+NQ-19075_EstoSeDebeBorrar;5_Nadal Quiñones;Cliente;Cuscatancingo;San Salvador;El Salvador;Centro$$$$
+NR-19345_EstoSeDebeBorrar;5_Nieves Robles;Empresa;Santiago de los Caballeros;Santiago;Rep?blica Dominicana;Caribe###
+NS-19465_EstoSeDebeBorrar;5_Noelia Salas;Pequeña empresa;Bayamo;Granma;Cuba;Caribe###
+NV-19180_EstoSeDebeBorrar;5_Narciso Vallés;Pequeña empresa;Itu;São Paulo;Brasil;Sur###
+NV-19360_EstoSeDebeBorrar;5_Normán Venegas;Cliente;Coatzacoalcos;Veracruz;M?xico;Norte###
+ÓA-19735_EstoSeDebeBorrar;5_Óscar Alba;Cliente;Valparaíso;Valparaíso;Chile;Sur###
+ÓA-19750_EstoSeDebeBorrar;5_Óscar Armendáriz;Cliente;Santa Fe;Santa Fe;Argentina;Sur###
+OB-19705_EstoSeDebeBorrar;5_Orestes Briones;Pequeña empresa;Guantánamo;Guantánamo;Cuba;Caribe$$$$
+OG-19615_EstoSeDebeBorrar;5_Oliver Galindo;Cliente;Los Mochis;Sinaloa;M?xico;Norte$$$$
+OG-19795_EstoSeDebeBorrar;5_Olvido Godoy;Pequeña empresa;Santiago de Cuba;Santiago de Cuba;Cuba;Caribe$$$$
+OH-19675_EstoSeDebeBorrar;5_Olegario Holguín;Pequeña empresa;Quibdó;Chocó;Colombia;Sur$$$$
+OL-19570_EstoSeDebeBorrar;5_Odiseo Liébanas;Cliente;Puerto Montt;Los Lagos;Chile;Sur$$$$
+OL-19645_EstoSeDebeBorrar;5_Olga Laureano;Empresa;Santarém;Pará;Brasil;Sur###
+OM-19660_EstoSeDebeBorrar;5_Ofelia Maya;Pequeña empresa;Cuajimalpa;Distrito Federal;M?xico;Norte###
+OM-19720_EstoSeDebeBorrar;5_Oriol Montes;Cliente;Tlaquepaque;Jalisco;M?xico;Norte###
+OM-19765_EstoSeDebeBorrar;5_Osmundo Montes;Empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+OM-19780_EstoSeDebeBorrar;5_Osvaldo Montano;Cliente;San Pedro Sula;Cortés;Honduras;Centro###
+OO-19555_EstoSeDebeBorrar;5_Octavio Ocampo;Cliente;Salvador;Bahía;Brasil;Sur###
+OP-19630_EstoSeDebeBorrar;5_Olimpia Pedraza;Empresa;Hermosillo;Sonora;M?xico;Norte$$$$
+OP-19690_EstoSeDebeBorrar;5_Onésimo Pagán;Cliente;Milpa Alta;Distrito Federal;M?xico;Norte$$$$
+OS-19585_EstoSeDebeBorrar;5_Odón Santiago;Cliente;Zapopan;Jalisco;M?xico;Norte$$$$
+OT-19600_EstoSeDebeBorrar;5_Olaya Torres;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro$$$$
+PA-19900_EstoSeDebeBorrar;5_Patricia Agosto;Cliente;San Francisco de Macorís;Duarte;Rep?blica Dominicana;Caribe$$$$
+PA-20080_EstoSeDebeBorrar;5_Prudencio Alfaro;Cliente;Carrefour;Ouest;Hait?;Caribe###
+PB-19810_EstoSeDebeBorrar;5_Paciente Bravo;Pequeña empresa;Guarulhos;São Paulo;Brasil;Sur###
+PC-19840_EstoSeDebeBorrar;5_Pamela Casanova;Cliente;Managua;Managua;Nicaragua;Centro###
+PC-19915_EstoSeDebeBorrar;5_Patrocinio Castro;Cliente;Mexicali;Baja California;M?xico;Norte###
+PC-20020_EstoSeDebeBorrar;5_Penélope Carrero;Cliente;León;Guanajuato;M?xico;Norte###
+PC-20050_EstoSeDebeBorrar;5_Plácido Calvillo;Pequeña empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+PE-19960_EstoSeDebeBorrar;5_Pablo Esparza;Cliente;Cuscatancingo;San Salvador;El Salvador;Centro$$$$
+PE-20125_EstoSeDebeBorrar;5_Pura Esquivel;Pequeña empresa;Tepic;Nayarit;M?xico;Norte$$$$
+PL-19930_EstoSeDebeBorrar;5_Paula Lara;Cliente;Villa Alemana;Valparaíso;Chile;Sur$$$$
+PL-19945_EstoSeDebeBorrar;5_Piero Limón;Cliente;Quetzaltenango;Quezaltenango;Guatemala;Centro$$$$
+PL-20095_EstoSeDebeBorrar;5_Prudencio Luna;Cliente;San Salvador;San Salvador;El Salvador;Centro$$$$
+PM-19975_EstoSeDebeBorrar;5_Paz Montes;Empresa;Puebla;Puebla;M?xico;Norte###
+PN-20005_EstoSeDebeBorrar;5_Pedro Nino;Cliente;Antiguo Cuscatlán;La Libertad;El Salvador;Centro###
+PO-20110_EstoSeDebeBorrar;5_Pío Olivares;Cliente;Bogotá;Bogotá;Colombia;Sur###
+PR-19990_EstoSeDebeBorrar;5_Patricio Romo;Cliente;Castanhal;Pará;Brasil;Sur###
+PS-19855_EstoSeDebeBorrar;5_Pancho Saavedra;Empresa;Gómez Palacio;Durango;M?xico;Norte###
+PS-19870_EstoSeDebeBorrar;5_Paola Solís;Pequeña empresa;La Romana;La Romana;Rep?blica Dominicana;Caribe###
+PS-20065_EstoSeDebeBorrar;5_Piedad Sosa;Cliente;Teresina;Piauí;Brasil;Sur$$$$
+PT-19885_EstoSeDebeBorrar;5_Pastora Toro;Empresa;Villa Canales;Guatemala;Guatemala;Centro$$$$
+PV-20035_EstoSeDebeBorrar;5_Petra Vergara;Pequeña empresa;Ciudad de México;Distrito Federal;M?xico;Norte$$$$
+PZ-19825_EstoSeDebeBorrar;5_Paloma Zamora;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro$$$$
+QC-20140_EstoSeDebeBorrar;5_Queta Carmona;Empresa;San Miguelito;Panam?;Panam?;Centro$$$$
+QG-20185_EstoSeDebeBorrar;5_Quintín Guajardo;Cliente;Uberaba;Minas Gerais;Brasil;Sur###
+QG-20200_EstoSeDebeBorrar;5_Quique Griego;Cliente;São Benedito;Ceará;Brasil;Sur###
+QM-20155_EstoSeDebeBorrar;5_Quinto Muñoz;Pequeña empresa;Ilopango;San Salvador;El Salvador;Centro###
+QM-20170_EstoSeDebeBorrar;5_Queralt Mota;Cliente;Contramaestre;Santiago de Cuba;Cuba;Caribe###
+RA-20290_EstoSeDebeBorrar;5_Raimon Acosta;Empresa;Salvador;Bahía;Brasil;Sur###
+RA-20530_EstoSeDebeBorrar;5_Romero Arévalo;Cliente;Hermosillo;Sonora;M?xico;Norte###
+RB-20230_EstoSeDebeBorrar;5_Raquel Barreto;Empresa;Querétaro;Querétaro;M?xico;Norte%%
+RC-20305_EstoSeDebeBorrar;5_Raimon Chavarría;Cliente;Chinandega;Chinandega;Nicaragua;Centro%%
+RC-20350_EstoSeDebeBorrar;5_Rafaela Carvajal;Pequeña empresa;Ciudad de Panam?;Panam?;Panam?;Centro%%
+RC-20440_EstoSeDebeBorrar;5_Reinaldo Córdova;Empresa;Artemisa;Artemisa;Cuba;Caribe%%
+RC-20575_EstoSeDebeBorrar;5_Reyes Coto;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte%%
+RC-20605_EstoSeDebeBorrar;5_Rocío Chávez;Cliente;San Juan de la Maguana;San Juan;Rep?blica Dominicana;Caribe%%
+RD-20215_EstoSeDebeBorrar;5_Ramiro Dávila;Cliente;Hermosillo;Sonora;M?xico;Norte%%
+RF-20395_EstoSeDebeBorrar;5_Ricardo Franco;Cliente;Nicolás Romero;México;M?xico;Norte%%
+RM-20365_EstoSeDebeBorrar;5_Rafaela Marcos;Cliente;San Miguelito;Panam?;Panam?;Centro%%
+RM-20380_EstoSeDebeBorrar;5_Raúl Mesa;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte%%
+RM-20410_EstoSeDebeBorrar;5_Reinaldo Mireles;Cliente;Curitiba;Paraná;Brasil;Sur%%
+RM-20455_EstoSeDebeBorrar;5_Rocío Medina;Cliente;Guadalajara;Jalisco;M?xico;Norte%%
+RM-20485_EstoSeDebeBorrar;5_Rodolfo Molina;Pequeña empresa;Hermosillo;Sonora;M?xico;Norte%%
+RM-20590_EstoSeDebeBorrar;5_Rita Marín;Cliente;Tianguá;Ceará;Brasil;Sur%%
+RN-20260_EstoSeDebeBorrar;5_Rafel Nieves;Empresa;Zapopan;Jalisco;M?xico;Norte%%
+RO-20560_EstoSeDebeBorrar;5_René Olivo;Pequeña empresa;Hermosillo;Sonora;M?xico;Norte%%
+RP-20245_EstoSeDebeBorrar;5_Rafa Portillo;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe%%
+RP-20320_EstoSeDebeBorrar;5_Raimon Pineda;Pequeña empresa;San Juan de la Maguana;San Juan;Rep?blica Dominicana;Caribe%%
+RQ-20470_EstoSeDebeBorrar;5_Rocío Quesada;Cliente;Managua;Managua;Nicaragua;Centro%%
+RR-20515_EstoSeDebeBorrar;5_Roque Rivas;Pequeña empresa;San Martín;Cuscatlán;El Salvador;Centro%%
+RR-20545_EstoSeDebeBorrar;5_Romina Roque;Empresa;Cotia;São Paulo;Brasil;Sur%%
+RS-20335_EstoSeDebeBorrar;5_Rebeca Segura;Cliente;Camagüey;Camagüey;Cuba;Caribe%%
+RS-20425_EstoSeDebeBorrar;5_Renau Saavedra;Pequeña empresa;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur%%
+RS-20620_EstoSeDebeBorrar;5_Rocío Salcedo;Empresa;Trujillo;La Libertad;Per?;Sur%%
+RV-20500_EstoSeDebeBorrar;5_Regina Vega;Cliente;Consolación del Sur;Pinar del Río;Cuba;Caribe%%
+RV-20635_EstoSeDebeBorrar;5_Rodolfo Villaseñor;Empresa;San Pedro Sula;Cortés;Honduras;Centro%%
+RZ-20275_EstoSeDebeBorrar;5_Rafel Zarate;Cliente;Resistencia;Chaco;Argentina;Sur%%
+SA-20845_EstoSeDebeBorrar;5_Samuel Alemán;Cliente;Tijuana;Baja California;M?xico;Norte%%
+SA-20920_EstoSeDebeBorrar;5_Sofía Alba;Cliente;Avellaneda;Santa Fe;Argentina;Sur%%
+SB-20680_EstoSeDebeBorrar;5_Samanta Botello;Pequeña empresa;Tijuana;Baja California;M?xico;Norte%%
+SB-20830_EstoSeDebeBorrar;5_Sarai Barrientos;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte%%
+SB-20905_EstoSeDebeBorrar;5_Sebastián Botello;Cliente;Cuautitlán;México;M?xico;Norte%%
+SB-20980_EstoSeDebeBorrar;5_Susana Braza;Empresa;Ituiutaba;Minas Gerais;Brasil;Sur%%
+SC-20665_EstoSeDebeBorrar;5_Salomé Castillo;Pequeña empresa;Ciudad de Panam?;Panam?;Panam?;Centro%%
+SC-20740_EstoSeDebeBorrar;5_Salvador Calderón;Pequeña empresa;Managua;Managua;Nicaragua;Centro%%
+SC-20785_EstoSeDebeBorrar;5_Sandra Crespo;Cliente;Sancti Spíritus;Sancti Spíritus;Cuba;Caribe%%
+SE-20860_EstoSeDebeBorrar;5_Samuel Escobar;Empresa;Cipolletti;Río Negro;Argentina;Sur%%
+SG-20755_EstoSeDebeBorrar;5_Serafín Girón;Empresa;Medellín;Antioquia;Colombia;Sur%%
+SG-20815_EstoSeDebeBorrar;5_Simón Gracia;Empresa;Ciudad de México;Distrito Federal;M?xico;Norte%%
+SG-20965_EstoSeDebeBorrar;5_Silvia Gil;Empresa;Manizales;Caldas;Colombia;Sur%%
+SM-20890_EstoSeDebeBorrar;5_Saúl Mendoza;Empresa;Villa Nueva;Guatemala;Guatemala;Centro%%
+SN-20875_EstoSeDebeBorrar;5_Santiago Núñez;Cliente;Managua;Managua;Nicaragua;Centro%%
+SO-20650_EstoSeDebeBorrar;5_Sabina Ornelas;Empresa;Coyoacán;Distrito Federal;M?xico;Norte%%
+SO-20800_EstoSeDebeBorrar;5_Sandra Orta;Cliente;Tijuana;Baja California;M?xico;Norte###
+SP-20695_EstoSeDebeBorrar;5_Sabino Pérez;Empresa;Rosario;Santa Fe;Argentina;Sur###
+SP-20770_EstoSeDebeBorrar;5_Sergio Porras;Empresa;Managua;Managua;Nicaragua;Centro###
+SP-20950_EstoSeDebeBorrar;5_Silvia Pérez;Empresa;Carrefour;Ouest;Hait?;Caribe###
+SS-20710_EstoSeDebeBorrar;5_Salomón Soto;Pequeña empresa;Managua;Managua;Nicaragua;Centro###
+SS-20725_EstoSeDebeBorrar;5_Salma Soria;Cliente;Petrópolis;Río de Janeiro;Brasil;Sur$$$$
+SS-20935_EstoSeDebeBorrar;5_Selena Savoya;Cliente;Tegucigalpa;Francisco Morazán;Honduras;Centro$$$$
+TA-21175_EstoSeDebeBorrar;5_Teodora Atencio;Empresa;Santiago de Cuba;Santiago de Cuba;Cuba;Caribe$$$$
+TA-21310_EstoSeDebeBorrar;5_Tomás Arredondo;Cliente;San Salvador;San Salvador;El Salvador;Centro$$$$
+TC-21085_EstoSeDebeBorrar;5_Tina Cardona;Cliente;Santa Cruz de Barahona;Barahona;Rep?blica Dominicana;Caribe$$$$
+TD-21130_EstoSeDebeBorrar;5_Telmo Díaz;Cliente;Apopa;San Salvador;El Salvador;Centro###
+TF-21070_EstoSeDebeBorrar;5_Tacio Franco;Cliente;San Cristóbal;Táchira;Venezuela;Sur###
+TG-21055_EstoSeDebeBorrar;5_Tamara González;Cliente;Santiago;Santiago;Chile;Sur###
+TG-21100_EstoSeDebeBorrar;5_Teo Guerrero;Cliente;Bajos de Haina;San Cristóbal;Rep?blica Dominicana;Caribe###
+TJ-21265_EstoSeDebeBorrar;5_Tito Jáquez;Empresa;Buenos Aires;Ciudad de Buenos Aires;Argentina;Sur###
+TL-21115_EstoSeDebeBorrar;5_Teodoro Llarnas;Empresa;Curitiba;Paraná;Brasil;Sur###
+TM-21220_EstoSeDebeBorrar;5_Tirso Marín;Cliente;La Romana;La Romana;Rep?blica Dominicana;Caribe$$$$
+TN-21010_EstoSeDebeBorrar;5_Tania Naranjo;Cliente;La Ceiba;Atlántida;Honduras;Centro$$$$
+TO-21025_EstoSeDebeBorrar;5_Tomás Olivera;Pequeña empresa;León;Guanajuato;M?xico;Norte$$$$
+TO-21040_EstoSeDebeBorrar;5_Teresa Olivera;Pequeña empresa;Bogotá;Bogotá;Colombia;Sur$$$$
+TO-21190_EstoSeDebeBorrar;5_Thiago Olivares;Pequeña empresa;Soyapango;San Salvador;El Salvador;Centro$$$$
+TR-21250_EstoSeDebeBorrar;5_Trinidad Rubio;Cliente;Managua;Managua;Nicaragua;Centro###
+TR-21280_EstoSeDebeBorrar;5_Tobías Ramírez;Cliente;Ciudad de México;Distrito Federal;M?xico;Norte###
+TS-21205_EstoSeDebeBorrar;5_Tino Salinas;Empresa;Guayaquil;Guayas;Ecuador;Sur###
+TS-21235_EstoSeDebeBorrar;5_Triana Santacruz;Empresa;Tegucigalpa;Francisco Morazán;Honduras;Centro###
+TT-20995_EstoSeDebeBorrar;5_Tatiana Téllez;Cliente;Colón;Colón;Panam?;Centro###
+TT-21145_EstoSeDebeBorrar;5_Thalía Torres;Empresa;Tipitapa;Managua;Nicaragua;Centro###
+TU-21295_EstoSeDebeBorrar;5_Tomasa Urena;Cliente;San Salvador;San Salvador;El Salvador;Centro$$$$
+TV-21160_EstoSeDebeBorrar;5_Telma Valdomero;Empresa;Mixco;Guatemala;Guatemala;Centro$$$$
+UÁ-21325_EstoSeDebeBorrar;5_Ubaldo Ávalos;Cliente;Paranaguá;Paraná;Brasil;Sur$$$$
+UL-21340_EstoSeDebeBorrar;5_Ulises Lebrón;Cliente;Ribeirão Preto;São Paulo;Brasil;Sur$$$$
+UN-21385_EstoSeDebeBorrar;5_Uriel Nieves;Pequeña empresa;Itapecerica da Serra;São Paulo;Brasil;Sur$$$$
+UP-21370_EstoSeDebeBorrar;5_Urías Pantoja;Empresa;Matagalpa;Matagalpa;Nicaragua;Centro###
+UR-21355_EstoSeDebeBorrar;5_Unai Rubalcaba;Empresa;Ciudad de Panam?;Panam?;Panam?;Centro###
+UR-21400_EstoSeDebeBorrar;5_Unai Reynoso;Cliente;Ocotlán;Jalisco;M?xico;Norte###
+ÚS-21430_EstoSeDebeBorrar;5_Úrsula Soto;Empresa;Facatativá;Cundinamarca;Colombia;Sur###
+UV-21415_EstoSeDebeBorrar;5_Urso Valverde;Cliente;Guantánamo;Guantánamo;Cuba;Caribe###
+VA-21445_EstoSeDebeBorrar;5_Valentina Acuna;Empresa;Abreu e Lima;Pernambuco;Brasil;Sur###
+VA-21595_EstoSeDebeBorrar;5_Violeta Arnelas;Cliente;Francisco Morato;São Paulo;Brasil;Sur$$$$
+VB-21610_EstoSeDebeBorrar;5_Virginia Baeza;Cliente;Montevideo;Montevideo;Uruguay;Sur$$$$
+VC-21490_EstoSeDebeBorrar;5_Valeria Caldera;Cliente;Ilopango;San Salvador;El Salvador;Centro$$$$
+VC-21535_EstoSeDebeBorrar;5_Victoria Chavarría;Pequeña empresa;Pinar del Río;Pinar del Río;Cuba;Caribe$$$$
+VC-21565_EstoSeDebeBorrar;5_Vanesa Cepeda;Empresa;Saltillo;Coahuila;M?xico;Norte$$$$
+VC-21715_EstoSeDebeBorrar;5_Violeta Cruz;Pequeña empresa;Antiguo Cuscatlán;La Libertad;El Salvador;Centro###
+VC-21730_EstoSeDebeBorrar;5_Virgilio Cardona;Pequeña empresa;Managua;Managua;Nicaragua;Centro###
+VC-21745_EstoSeDebeBorrar;5_Viviana Cárdenas;Empresa;Ciudad de Panam?;Panam?;Panam?;Centro###
+VG-21655_EstoSeDebeBorrar;5_Violeta Galindo;Cliente;Potosí;Potosí;Bolivia;Sur###
+VH-21640_EstoSeDebeBorrar;5_Víctor Huerta;Cliente;Brasília;Distrito Federal;Brasil;Sur###
+VL-21670_EstoSeDebeBorrar;5_Vicente Leiva;Cliente;Soyapango;San Salvador;El Salvador;Centro###
+VM-21460_EstoSeDebeBorrar;5_Valentina Macías;Pequeña empresa;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe$$$$
+VM-21475_EstoSeDebeBorrar;5_Valentina Méndez;Pequeña empresa;San Francisco de Macorís;Duarte;Rep?blica Dominicana;Caribe$$$$
+VM-21625_EstoSeDebeBorrar;5_Víctor Morales;Cliente;Ciudad Madero;Tamaulipas;M?xico;Norte$$$$
+VO-21520_EstoSeDebeBorrar;5_Vera Olmos;Cliente;Puerto Montt;Los Lagos;Chile;Sur###
+VO-21580_EstoSeDebeBorrar;5_Vanesa Olmos;Cliente;Guacara;Carabobo;Venezuela;Sur###
+VP-21700_EstoSeDebeBorrar;5_Virgilio Puertas;Pequeña empresa;Brasília;Distrito Federal;Brasil;Sur###
+VS-21505_EstoSeDebeBorrar;5_Vanesa Sarabia;Cliente;Santo Domingo;Santo Domingo;Rep?blica Dominicana;Caribe###
+VV-21550_EstoSeDebeBorrar;5_Victoria Valdivia;Pequeña empresa;Zapopan;Jalisco;M?xico;Norte###
+VZ-21685_EstoSeDebeBorrar;5_Valerio Zayas;Pequeña empresa;Apopa;San Salvador;El Salvador;Centro$$$$
+WA-21775_EstoSeDebeBorrar;5_Walter Alcaraz;Empresa;Carrefour;Ouest;Hait?;Caribe$$$$
+WL-21760_EstoSeDebeBorrar;5_Wendy Leiva;Empresa;São Paulo;São Paulo;Brasil;Sur$$$$
+WM-21805_EstoSeDebeBorrar;5_Wendy Morales;Empresa;Managua;Managua;Nicaragua;Centro$$$$
+WN-21790_EstoSeDebeBorrar;5_Waldo Nazario;Cliente;Gonaïves;L'Artibonite;Hait?;Caribe$$$$
+WR-21835_EstoSeDebeBorrar;5_William Roldán;Cliente;Villa Nueva;Guatemala;Guatemala;Centro###
+WV-21820_EstoSeDebeBorrar;5_Wendi Valdés;Cliente;Maceió;Alagoas;Brasil;Sur###
+YA-21865_EstoSeDebeBorrar;5_Yasmina Alfaro;Cliente;Soledad Díez Gutiérrez;San Luis Potosí;M?xico;Norte###
+YA-21880_EstoSeDebeBorrar;5_Yanira Acuna;Empresa;Salta;Salta;Argentina;Sur###
+YP-21895_EstoSeDebeBorrar;5_Yasir Pizarro;Empresa;Córdoba;Veracruz;M?xico;Norte###
+YP-21910_EstoSeDebeBorrar;5_Yasir Polanco;Cliente;San Salvador;San Salvador;El Salvador;Centro###
+YS-21925_EstoSeDebeBorrar;5_Yolanda Saavedra;Cliente;Ciudad Madero;Tamaulipas;M?xico;Norte$$$$
+YV-21850_EstoSeDebeBorrar;5_Yago Villanueva;Cliente;Monterrey;Nuevo León;M?xico;Norte$$$$
